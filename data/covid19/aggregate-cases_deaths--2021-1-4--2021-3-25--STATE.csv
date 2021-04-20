@@ -1,0 +1,205 @@
+,geo_value,signal,value,geo_name,state
+0,02000,recent_cases_cum,13150.0,Alaska,Alaska
+1,02000,recent_deaths_cum,92.0,Alaska,Alaska
+2,01000,recent_cases_cum,141227.0,Alabama,Alabama
+3,01000,recent_deaths_cum,5639.0,Alabama,Alabama
+4,05000,recent_cases_cum,96040.0,Arkansas,Arkansas
+5,05000,recent_deaths_cum,1876.0,Arkansas,Arkansas
+6,04000,recent_cases_cum,281632.0,Arizona,Arizona
+7,04000,recent_deaths_cum,7782.0,Arizona,Arizona
+8,06000,recent_cases_cum,1173201.0,California,California
+9,06000,recent_deaths_cum,30798.0,California,California
+10,08000,recent_cases_cum,113653.0,Colorado,Colorado
+11,08000,recent_deaths_cum,1162.0,Colorado,Colorado
+12,09000,recent_cases_cum,113390.0,Connecticut,Connecticut
+13,09000,recent_deaths_cum,1767.0,Connecticut,Connecticut
+14,11000,recent_cases_cum,13905.0,District of Columbia,District of Columbia
+15,11000,recent_deaths_cum,259.0,District of Columbia,District of Columbia
+16,10000,recent_cases_cum,33554.0,Delaware,Delaware
+17,10000,recent_deaths_cum,606.0,Delaware,Delaware
+18,12000,recent_cases_cum,662013.0,Florida,Florida
+19,12000,recent_deaths_cum,11000.0,Florida,Florida
+20,13000,recent_cases_cum,259855.0,Georgia,Georgia
+21,13000,recent_deaths_cum,6459.0,Georgia,Georgia
+22,15000,recent_cases_cum,10120.0,Hawaii,Hawaii
+23,15000,recent_deaths_cum,189.0,Hawaii,Hawaii
+24,19000,recent_cases_cum,63440.0,Iowa,Iowa
+25,19000,recent_deaths_cum,1746.0,Iowa,Iowa
+26,16000,recent_cases_cum,36381.0,Idaho,Idaho
+27,16000,recent_deaths_cum,508.0,Idaho,Idaho
+28,17000,recent_cases_cum,250112.0,Illinois,Illinois
+29,17000,recent_deaths_cum,4424.0,Illinois,Illinois
+30,18000,recent_cases_cum,155221.0,Indiana,Indiana
+31,18000,recent_deaths_cum,4510.0,Indiana,Indiana
+32,20000,recent_cases_cum,71211.0,Kansas,Kansas
+33,20000,recent_deaths_cum,2035.0,Kansas,Kansas
+34,21000,recent_cases_cum,146725.0,Kentucky,Kentucky
+35,21000,recent_deaths_cum,3252.0,Kentucky,Kentucky
+36,22000,recent_cases_cum,121643.0,Louisiana,Louisiana
+37,22000,recent_deaths_cum,2538.0,Louisiana,Louisiana
+38,25000,recent_cases_cum,233331.0,Massachusetts,Massachusetts
+39,25000,recent_deaths_cum,4400.0,Massachusetts,Massachusetts
+40,24000,recent_cases_cum,118669.0,Maryland,Maryland
+41,24000,recent_deaths_cum,2159.0,Maryland,Maryland
+42,23000,recent_cases_cum,23253.0,Maine,Maine
+43,23000,recent_deaths_cum,292.0,Maine,Maine
+44,26000,recent_cases_cum,174273.0,Michigan,Michigan
+45,26000,recent_deaths_cum,3702.0,Michigan,Michigan
+46,27000,recent_cases_cum,89856.0,Minnesota,Minnesota
+47,27000,recent_deaths_cum,1385.0,Minnesota,Minnesota
+48,29000,recent_cases_cum,85604.0,Missouri,Missouri
+49,29000,recent_deaths_cum,2890.0,Missouri,Missouri
+50,28000,recent_cases_cum,81887.0,Mississippi,Mississippi
+51,28000,recent_deaths_cum,2117.0,Mississippi,Mississippi
+52,30000,recent_cases_cum,21479.0,Montana,Montana
+53,30000,recent_deaths_cum,462.0,Montana,Montana
+54,37000,recent_cases_cum,338467.0,North Carolina,North Carolina
+55,37000,recent_deaths_cum,5083.0,North Carolina,North Carolina
+56,38000,recent_cases_cum,9162.0,North Dakota,North Dakota
+57,38000,recent_deaths_cum,157.0,North Dakota,North Dakota
+58,31000,recent_cases_cum,37839.0,Nebraska,Nebraska
+59,31000,recent_deaths_cum,513.0,Nebraska,Nebraska
+60,33000,recent_cases_cum,35589.0,New Hampshire,New Hampshire
+61,33000,recent_deaths_cum,449.0,New Hampshire,New Hampshire
+62,34000,recent_cases_cum,339840.0,New Jersey,New Jersey
+63,34000,recent_deaths_cum,5122.0,New Jersey,New Jersey
+64,35000,recent_cases_cum,44099.0,New Mexico,New Mexico
+65,35000,recent_deaths_cum,1365.0,New Mexico,New Mexico
+66,32000,recent_cases_cum,69504.0,Nevada,Nevada
+67,32000,recent_deaths_cum,1970.0,Nevada,Nevada
+68,36000,recent_cases_cum,792615.0,New York,New York
+69,36000,recent_deaths_cum,11425.0,New York,New York
+70,39000,recent_cases_cum,284696.0,Ohio,Ohio
+71,39000,recent_deaths_cum,9741.0,Ohio,Ohio
+72,40000,recent_cases_cum,131385.0,Oklahoma,Oklahoma
+73,40000,recent_deaths_cum,2303.0,Oklahoma,Oklahoma
+74,41000,recent_cases_cum,48897.0,Oregon,Oregon
+75,41000,recent_deaths_cum,893.0,Oregon,Oregon
+76,42000,recent_cases_cum,338448.0,Pennsylvania,Pennsylvania
+77,42000,recent_deaths_cum,8627.0,Pennsylvania,Pennsylvania
+78,44000,recent_cases_cum,46035.0,Rhode Island,Rhode Island
+79,44000,recent_deaths_cum,882.0,Rhode Island,Rhode Island
+80,45000,recent_cases_cum,223588.0,South Carolina,South Carolina
+81,45000,recent_deaths_cum,3618.0,South Carolina,South Carolina
+82,46000,recent_cases_cum,16109.0,South Dakota,South Dakota
+83,46000,recent_deaths_cum,414.0,South Dakota,South Dakota
+84,47000,recent_cases_cum,197720.0,Tennessee,Tennessee
+85,47000,recent_deaths_cum,4777.0,Tennessee,Tennessee
+86,48000,recent_cases_cum,965946.0,Texas,Texas
+87,48000,recent_deaths_cum,18947.0,Texas,Texas
+88,49000,recent_cases_cum,99367.0,Utah,Utah
+89,49000,recent_deaths_cum,792.0,Utah,Utah
+90,51000,recent_cases_cum,246894.0,Virginia,Virginia
+91,51000,recent_deaths_cum,5129.0,Virginia,Virginia
+92,50000,recent_cases_cum,10424.0,Vermont,Vermont
+93,50000,recent_deaths_cum,83.0,Vermont,Vermont
+94,53000,recent_cases_cum,103358.0,Washington,Washington
+95,53000,recent_deaths_cum,1771.0,Washington,Washington
+96,55000,recent_cases_cum,105882.0,Wisconsin,Wisconsin
+97,55000,recent_deaths_cum,1755.0,Wisconsin,Wisconsin
+98,54000,recent_cases_cum,47876.0,West Virginia,West Virginia
+99,54000,recent_deaths_cum,1254.0,West Virginia,West Virginia
+100,56000,recent_cases_cum,11047.0,Wyoming,Wyoming
+101,56000,recent_deaths_cum,258.0,Wyoming,Wyoming
+12342,02000,total_cases_cum,59448.0,Alaska,Alaska
+12343,01000,total_cases_cum,513161.0,Alabama,Alabama
+12344,05000,total_cases_cum,329515.0,Arkansas,Arkansas
+12345,04000,total_cases_cum,838016.0,Arizona,Arizona
+12346,06000,total_cases_cum,3563340.0,California,California
+12347,08000,total_cases_cum,454898.0,Colorado,Colorado
+12348,09000,total_cases_cum,303510.0,Connecticut,Connecticut
+12349,11000,total_cases_cum,43669.0,District of Columbia,District of Columbia
+12350,10000,total_cases_cum,93038.0,Delaware,Delaware
+12351,12000,total_cases_cum,2027448.0,Florida,Florida
+12352,13000,total_cases_cum,846931.0,Georgia,Georgia
+12353,15000,total_cases_cum,29071.0,Hawaii,Hawaii
+12354,19000,total_cases_cum,347703.0,Iowa,Iowa
+12355,16000,total_cases_cum,178888.0,Idaho,Idaho
+12356,17000,total_cases_cum,1229901.0,Illinois,Illinois
+12357,18000,total_cases_cum,684552.0,Indiana,Indiana
+12358,20000,total_cases_cum,301395.0,Kansas,Kansas
+12359,21000,total_cases_cum,423549.0,Kentucky,Kentucky
+12360,22000,total_cases_cum,442678.0,Louisiana,Louisiana
+12361,25000,total_cases_cum,586496.0,Massachusetts,Massachusetts
+12362,24000,total_cases_cum,403988.0,Maryland,Maryland
+12363,23000,total_cases_cum,49190.0,Maine,Maine
+12364,26000,total_cases_cum,712394.0,Michigan,Michigan
+12365,27000,total_cases_cum,510400.0,Minnesota,Minnesota
+12366,29000,total_cases_cum,487365.0,Missouri,Missouri
+12367,28000,total_cases_cum,303948.0,Mississippi,Mississippi
+12368,30000,total_cases_cum,103843.0,Montana,Montana
+12369,37000,total_cases_cum,903391.0,North Carolina,North Carolina
+12370,38000,total_cases_cum,102201.0,North Dakota,North Dakota
+12371,31000,total_cases_cum,205574.0,Nebraska,Nebraska
+12372,33000,total_cases_cum,82039.0,New Hampshire,New Hampshire
+12373,34000,total_cases_cum,881882.0,New Jersey,New Jersey
+12374,35000,total_cases_cum,190492.0,New Mexico,New Mexico
+12375,32000,total_cases_cum,296763.0,Nevada,Nevada
+12376,36000,total_cases_cum,1809837.0,New York,New York
+12377,39000,total_cases_cum,1006176.0,Ohio,Ohio
+12378,40000,total_cases_cum,435457.0,Oklahoma,Oklahoma
+12379,41000,total_cases_cum,162806.0,Oregon,Oregon
+12380,42000,total_cases_cum,1000243.0,Pennsylvania,Pennsylvania
+12381,44000,total_cases_cum,127986.0,Rhode Island,Rhode Island
+12382,45000,total_cases_cum,545257.0,South Carolina,South Carolina
+12383,46000,total_cases_cum,116641.0,South Dakota,South Dakota
+12384,47000,total_cases_cum,806012.0,Tennessee,Tennessee
+12385,48000,total_cases_cum,2761413.0,Texas,Texas
+12386,49000,total_cases_cum,383260.0,Utah,Utah
+12387,51000,total_cases_cum,610637.0,Virginia,Virginia
+12388,50000,total_cases_cum,18215.0,Vermont,Vermont
+12389,53000,total_cases_cum,358606.0,Washington,Washington
+12390,55000,total_cases_cum,632126.0,Wisconsin,Wisconsin
+12391,54000,total_cases_cum,138818.0,West Virginia,West Virginia
+12392,56000,total_cases_cum,55922.0,Wyoming,Wyoming
+16473,02000,total_deaths_cum,298.0,Alaska,Alaska
+16474,01000,total_deaths_cum,10511.0,Alabama,Alabama
+16475,05000,total_deaths_cum,5625.0,Arkansas,Arkansas
+16476,04000,total_deaths_cum,16843.0,Arizona,Arizona
+16477,06000,total_deaths_cum,57336.0,California,California
+16478,08000,total_deaths_cum,6096.0,Colorado,Colorado
+16479,09000,total_deaths_cum,7865.0,Connecticut,Connecticut
+16480,11000,total_deaths_cum,1053.0,District of Columbia,District of Columbia
+16481,10000,total_deaths_cum,1536.0,Delaware,Delaware
+16482,12000,total_deaths_cum,32976.0,Florida,Florida
+16483,13000,total_deaths_cum,16352.0,Georgia,Georgia
+16484,15000,total_deaths_cum,458.0,Hawaii,Hawaii
+16485,19000,total_deaths_cum,5690.0,Iowa,Iowa
+16486,16000,total_deaths_cum,1956.0,Idaho,Idaho
+16487,17000,total_deaths_cum,21174.0,Illinois,Illinois
+16488,18000,total_deaths_cum,12985.0,Indiana,Indiana
+16489,20000,total_deaths_cum,4913.0,Kansas,Kansas
+16490,21000,total_deaths_cum,5970.0,Kentucky,Kentucky
+16491,22000,total_deaths_cum,10074.0,Louisiana,Louisiana
+16492,25000,total_deaths_cum,17010.0,Massachusetts,Massachusetts
+16493,24000,total_deaths_cum,8170.0,Maryland,Maryland
+16494,23000,total_deaths_cum,731.0,Maine,Maine
+16495,26000,total_deaths_cum,17006.0,Michigan,Michigan
+16496,27000,total_deaths_cum,6814.0,Minnesota,Minnesota
+16497,29000,total_deaths_cum,8450.0,Missouri,Missouri
+16498,28000,total_deaths_cum,6989.0,Mississippi,Mississippi
+16499,30000,total_deaths_cum,1436.0,Montana,Montana
+16500,37000,total_deaths_cum,11992.0,North Carolina,North Carolina
+16501,38000,total_deaths_cum,1467.0,North Dakota,North Dakota
+16502,31000,total_deaths_cum,2173.0,Nebraska,Nebraska
+16503,33000,total_deaths_cum,1229.0,New Hampshire,New Hampshire
+16504,34000,total_deaths_cum,24330.0,New Jersey,New Jersey
+16505,35000,total_deaths_cum,3916.0,New Mexico,New Mexico
+16506,32000,total_deaths_cum,5103.0,Nevada,Nevada
+16507,36000,total_deaths_cum,49580.0,New York,New York
+16508,39000,total_deaths_cum,18817.0,Ohio,Ohio
+16509,40000,total_deaths_cum,4850.0,Oklahoma,Oklahoma
+16510,41000,total_deaths_cum,2370.0,Oregon,Oregon
+16511,42000,total_deaths_cum,24922.0,Pennsylvania,Pennsylvania
+16512,44000,total_deaths_cum,2594.0,Rhode Island,Rhode Island
+16513,45000,total_deaths_cum,9085.0,South Carolina,South Carolina
+16514,46000,total_deaths_cum,1927.0,South Dakota,South Dakota
+16515,47000,total_deaths_cum,11802.0,Tennessee,Tennessee
+16516,48000,total_deaths_cum,46848.0,Texas,Texas
+16517,49000,total_deaths_cum,2095.0,Utah,Utah
+16518,51000,total_deaths_cum,10250.0,Virginia,Virginia
+16519,50000,total_deaths_cum,223.0,Vermont,Vermont
+16520,53000,total_deaths_cum,5214.0,Washington,Washington
+16521,55000,total_deaths_cum,6630.0,Wisconsin,Wisconsin
+16522,54000,total_deaths_cum,2630.0,West Virginia,West Virginia
+16523,56000,total_deaths_cum,696.0,Wyoming,Wyoming
