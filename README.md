@@ -38,4 +38,4 @@ You can find keywords used to filter Twitter stream in `src/keywords.txt`. You c
 ## Dependencies
 * `covidcast` - install by running `pip install covidcast`. Details can be found [here](https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html)
 * `carmen`  - install by running `pip install carmen`. Details can be found [here](https://github.com/mdredze/carmen-python)
-* `urlexpander` - install by running `pip install urlexpander`. Details can be found [here](https://github.com/SMAPPNYU/urlExpander))
+* `urlexpander` - install by running `pip install urlexpander`. Details can be found [here](https://github.com/SMAPPNYU/urlExpander)
