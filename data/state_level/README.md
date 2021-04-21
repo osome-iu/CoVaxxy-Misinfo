@@ -18,4 +18,4 @@
 
 | **File**        | **Variables**    | **Comment** |
 | ----------- | ----------- | ----------- |
-| `owid-data.csv` | daily_vaccinations_per_million |  |
+| `owid-data.csv` | daily_vaccinations_per_million | New doses administered per day (7-day smoothed) per 1,000,000 people in the total population of the state |
