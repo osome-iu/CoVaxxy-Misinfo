@@ -20,6 +20,9 @@ Reproducibility code for "The impact of online misinformation on U.S. COVID-19 v
 * `intermediate_files` - folder which contains intermediate data to be merged
 * `logs` - folder which contains logs for the output of scripts
 * `src` - folder which contains scripts to be executed
+
+## Keywords and Low-credibility sources
+You can find keywords used to filter Twitter stream in `src/keywords.txt`. You can find the list of low-credibility sources in `intermediate_files/low_credibility.csv`. Check the [Github repository](https://github.com/osome-iu/CoVaxxy) associated to our CoVaxxy project for further details.
     
 ## Dependencies
 * `covidcast` - install by running the below code from your terminal
@@ -31,7 +34,7 @@ Reproducibility code for "The impact of online misinformation on U.S. COVID-19 v
 
 ## Instructions to replicate results
 
-1. Put Twitter data in the `data/twitter` folder. You must put one or several files with one `json` (i.e. one tweet) per line. Check the [Github repository](https://github.com/osome-iu/CoVaxxy) associated to our CoVaxxy project to see how to download our dataset and reconstruct it using Twitter API.
+1. Put Twitter data in the `data/twitter` folder. You must put `.json` files with one tweet `json` per line. Check the [Github repository](https://github.com/osome-iu/CoVaxxy) associated to our CoVaxxy project to see how to download our dataset and reconstruct it using Twitter API.
 2. Move in the `src` folder and execute Python scripts (see associated `src/README.md` file for further details) in the following order:
       * `python3 twitter_data_processing.py ../config.ini` - to process Twitter data
       * `python3 get_cases_and_deaths.py ../config.ini` - download COVID-19 number of cases and deaths; modify `config.ini` to set the date range.
