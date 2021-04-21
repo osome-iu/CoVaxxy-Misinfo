@@ -42,3 +42,4 @@ You can find keywords used to filter Twitter stream in `src/keywords.txt`. You c
 * `carmen`  - install by running the below code from your terminal
     * `pip install carmen`
     * Details can be found [here](https://github.com/mdredze/carmen-python)
+* `urlexpander` - install by running `pip install urlexpander` (more details [here](https://github.com/SMAPPNYU/urlExpander))
