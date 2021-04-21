@@ -23,14 +23,6 @@ Reproducibility code for "The impact of online misinformation on U.S. COVID-19 v
 
 ## Keywords and Low-credibility sources
 You can find keywords used to filter Twitter stream in `src/keywords.txt`. You can find the list of low-credibility sources in `intermediate_files/low_credibility.csv`. Check the [Github repository](https://github.com/osome-iu/CoVaxxy) associated to our CoVaxxy project for further details.
-    
-## Dependencies
-* `covidcast` - install by running the below code from your terminal
-    * `pip install covidcast`
-    * Details can be found [here](https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html)
-* `carmen`  - install by running the below code from your terminal
-    * `pip install carmen`
-    * Details can be found [here](https://github.com/mdredze/carmen-python)
 
 ## Instructions to replicate results
 
@@ -40,4 +32,12 @@ You can find keywords used to filter Twitter stream in `src/keywords.txt`. You c
       * `python3 get_cases_and_deaths.py ../config.ini` - download COVID-19 number of cases and deaths; modify `config.ini` to set the date range.
       * `python3 aggregate_cases_and_deaths.py ../config.ini` - aggregate COVID-19 numbers of cases and deaths for further use
       * `python3 merge_datasets.py ../config.ini` - merge together intermediate data in a single dataframe to be used for correlation
-3. Run `src/stata_script.do` to get correlation results
+3. Run STATA script (`src/stata_script.do`) to get correlation results
+
+## Dependencies
+* `covidcast` - install by running the below code from your terminal
+    * `pip install covidcast`
+    * Details can be found [here](https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html)
+* `carmen`  - install by running the below code from your terminal
+    * `pip install carmen`
+    * Details can be found [here](https://github.com/mdredze/carmen-python)
