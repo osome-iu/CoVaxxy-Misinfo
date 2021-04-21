@@ -22,8 +22,6 @@
 
 - https://github.com/tonmcg/US_County_Level_Election_Results_08-20
 
-(Maybe use https://github.com/TheUpshot/presidential-precinct-map-2020 for the final paper as it's a more 'reliable source'.)
-
 | **File**        | **Variables**    | **Comment** |
 | ----------- | ----------- | ----------- |
 | county_2020_elections.csv | `per_gop`, `per_dem` | These won't add up to 100 |
