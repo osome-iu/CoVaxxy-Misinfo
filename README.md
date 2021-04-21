@@ -36,10 +36,6 @@ You can find keywords used to filter Twitter stream in `src/keywords.txt`. You c
 4. Run STATA script (`src/stata_script.do`) to get correlation results using `output_files/master_data--{%Y-%m-%d__%H-%M-%S}.csv`.
 
 ## Dependencies
-* `covidcast` - install by running the below code from your terminal
-    * `pip install covidcast`
-    * Details can be found [here](https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html)
-* `carmen`  - install by running the below code from your terminal
-    * `pip install carmen`
-    * Details can be found [here](https://github.com/mdredze/carmen-python)
-* `urlexpander` - install by running `pip install urlexpander` (more details [here](https://github.com/SMAPPNYU/urlExpander))
+* `covidcast` - install by running `pip install covidcast`. Details can be found [here](https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html)
+* `carmen`  - install by running `pip install carmen`. Details can be found [here](https://github.com/mdredze/carmen-python)
+* `urlexpander` - install by running `pip install urlexpander`. Details can be found [here](https://github.com/SMAPPNYU/urlExpander))
