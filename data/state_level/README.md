@@ -6,7 +6,7 @@
 
 | **File**        | **Variables**    | **Comment** |
 | ----------- | ----------- | ----------- |
-| 1976-2020-president.csv | candidate | The amount of votes for Joe Biden and Donald trump is mapped to Democrats and Republicans in our script |
+| `1976-2020-president.csv` | candidate | The amount of votes for Joe Biden and Donald trump is mapped to Democrats and Republicans in our script |
 
 - https://www.thearda.com/Archive/Files/Descriptions/RCMSST10.asp
 
