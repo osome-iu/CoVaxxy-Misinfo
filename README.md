@@ -31,8 +31,8 @@ You can find keywords used to filter Twitter stream in `src/keywords.txt`. You c
       * `python3 twitter_data_processing.py ../config.ini` - to process Twitter data
       * `python3 get_cases_and_deaths.py ../config.ini` - download COVID-19 number of cases and deaths; modify `config.ini` to set the date range.
       * `python3 aggregate_cases_and_deaths.py ../config.ini` - aggregate COVID-19 numbers of cases and deaths for further use
-      * `python3 merge_datasets.py ../config.ini` - merge together intermediate data in a single dataframe to be used for correlation
-3. Run STATA script (`src/stata_script.do`) to get correlation results
+      * `python3 merge_datasets.py ../config.ini` - merge together intermediate data in a single dataframe to be used for correlation.
+3. Run STATA script (`src/stata_script.do`) to get correlation results using `output_files/master_data--{%Y-%m-%d__%H-%M-%S}.csv`.
 
 ## Dependencies
 * `covidcast` - install by running the below code from your terminal
