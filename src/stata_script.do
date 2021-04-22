@@ -2,7 +2,7 @@
 capture log close 
 set logtype text
 set more off 
-log using "..\log_files\Misinformation-v14", replace
+log using "..\logs\Misinformation-v14", replace
 
 
 
