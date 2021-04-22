@@ -14,12 +14,14 @@ Reproducibility code for "The impact of online misinformation on U.S. COVID-19 v
       ├── logs
       ├── output_files
       └── src
+      └── v1-streaming
 
 * `config.ini` - configuration file that specifies paths and filenames for the scripts
 * `data` - folder which contains subfolders with raw data at the state and county level, as well as Twitter data. Check related README files for further details
 * `intermediate_files` - folder which contains intermediate data to be merged
 * `logs` - folder which contains logs for the output of scripts
 * `src` - folder which contains scripts to be executed
+* `v1-streaming` - folder which contains the code used to stream the tweets
 
 ## Keywords and Low-credibility sources
 You can find keywords used to filter Twitter stream in `src/keywords.txt`. You can find the list of low-credibility sources in `intermediate_files/low_credibility.csv`. Check the [Github repository](https://github.com/osome-iu/CoVaxxy) associated to our CoVaxxy project for further details.
