@@ -1,4 +1,4 @@
-Reproducibility code for "The impact of online misinformation on U.S. COVID-19 vaccinations" Francesco Pierri, Brea Perry, Matthew R. DeVerna, Kai-Cheng Yang, Alessandro Flammini, Filippo Menczer and John Bryden.
+Reproducibility code for "The impact of online misinformation on U.S. COVID-19 vaccinations" Francesco Pierri, Brea Perry, Matthew R. DeVerna, Kai-Cheng Yang, Alessandro Flammini, Filippo Menczer and John Bryden. https://arxiv.org/abs/2104.10635
 
 ## Structure
       .
