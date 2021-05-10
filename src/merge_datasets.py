@@ -664,20 +664,19 @@ def clean_AggCasesDeaths_csv_state(data_path):
         }
     )
 
-    state_to_fips_map = Geo().get_state_to_fips_map()
-
-    data_with_fips = pd.merge(data,state_to_fips_map,left_on='geo_value',right_on='abbr_lower')
     
-    data_with_fips.rename(
+    data.rename(
         columns={
             "signal" : "variable",
+            "geo_value": "FIPS",
+            "state": "State"
         },
         inplace = True
     )
 
-    data_with_fips['County'] = ''
+    data['County'] = ''
 
-    return data_with_fips[['FIPS', 'State', 'County', 'variable', 'value']].copy()
+    return data[['FIPS', 'State', 'County', 'variable', 'value']].copy()
 
 
 ### Execute Main Script ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
