@@ -1,0 +1,1924 @@
+FIPS,State,County,variable,value
+01000,Alabama,Alabama,TotalPop2010,4779736.0
+02000,Alaska,Alaska,TotalPop2010,710231.0
+04000,Arizona,Arizona,TotalPop2010,6392017.0
+05000,Arkansas,Arkansas,TotalPop2010,2915918.0
+06000,California,California,TotalPop2010,37253956.0
+08000,Colorado,Colorado,TotalPop2010,5029196.0
+09000,Connecticut,Connecticut,TotalPop2010,3574097.0
+10000,Delaware,Delaware,TotalPop2010,897934.0
+11000,District of Columbia,District of Columbia,TotalPop2010,601723.0
+12000,Florida,Florida,TotalPop2010,18801310.0
+13000,Georgia,Georgia,TotalPop2010,9687653.0
+15000,Hawaii,Hawaii,TotalPop2010,1360301.0
+16000,Idaho,Idaho,TotalPop2010,1567582.0
+17000,Illinois,Illinois,TotalPop2010,12830632.0
+18000,Indiana,Indiana,TotalPop2010,6483802.0
+19000,Iowa,Iowa,TotalPop2010,3046355.0
+20000,Kansas,Kansas,TotalPop2010,2853118.0
+21000,Kentucky,Kentucky,TotalPop2010,4339367.0
+22000,Louisiana,Louisiana,TotalPop2010,4533372.0
+23000,Maine,Maine,TotalPop2010,1328361.0
+24000,Maryland,Maryland,TotalPop2010,5773552.0
+25000,Massachusetts,Massachusetts,TotalPop2010,6547629.0
+26000,Michigan,Michigan,TotalPop2010,9883640.0
+27000,Minnesota,Minnesota,TotalPop2010,5303925.0
+28000,Mississippi,Mississippi,TotalPop2010,2967297.0
+29000,Missouri,Missouri,TotalPop2010,5988927.0
+30000,Montana,Montana,TotalPop2010,989415.0
+31000,Nebraska,Nebraska,TotalPop2010,1826341.0
+32000,Nevada,Nevada,TotalPop2010,2700551.0
+33000,New Hampshire,New Hampshire,TotalPop2010,1316470.0
+34000,New Jersey,New Jersey,TotalPop2010,8791894.0
+35000,New Mexico,New Mexico,TotalPop2010,2059179.0
+36000,New York,New York,TotalPop2010,19378102.0
+37000,North Carolina,North Carolina,TotalPop2010,9535483.0
+38000,North Dakota,North Dakota,TotalPop2010,672591.0
+39000,Ohio,Ohio,TotalPop2010,11536504.0
+40000,Oklahoma,Oklahoma,TotalPop2010,3751351.0
+41000,Oregon,Oregon,TotalPop2010,3831074.0
+42000,Pennsylvania,Pennsylvania,TotalPop2010,12702379.0
+44000,Rhode Island,Rhode Island,TotalPop2010,1052567.0
+45000,South Carolina,South Carolina,TotalPop2010,4625364.0
+46000,South Dakota,South Dakota,TotalPop2010,814180.0
+47000,Tennessee,Tennessee,TotalPop2010,6346105.0
+48000,Texas,Texas,TotalPop2010,25145561.0
+49000,Utah,Utah,TotalPop2010,2763885.0
+50000,Vermont,Vermont,TotalPop2010,625741.0
+51000,Virginia,Virginia,TotalPop2010,8001024.0
+53000,Washington,Washington,TotalPop2010,6724540.0
+54000,West Virginia,West Virginia,TotalPop2010,1852994.0
+55000,Wisconsin,Wisconsin,TotalPop2010,5686986.0
+56000,Wyoming,Wyoming,TotalPop2010,563626.0
+01000,Alabama,Alabama,WhiteNonHispanicPct2010,67.04
+02000,Alaska,Alaska,WhiteNonHispanicPct2010,64.11
+04000,Arizona,Arizona,WhiteNonHispanicPct2010,57.82
+05000,Arkansas,Arkansas,WhiteNonHispanicPct2010,74.54
+06000,California,California,WhiteNonHispanicPct2010,40.15
+08000,Colorado,Colorado,WhiteNonHispanicPct2010,70.01
+09000,Connecticut,Connecticut,WhiteNonHispanicPct2010,71.24
+10000,Delaware,Delaware,WhiteNonHispanicPct2010,65.34
+11000,District of Columbia,District of Columbia,WhiteNonHispanicPct2010,34.81
+12000,Florida,Florida,WhiteNonHispanicPct2010,57.89
+13000,Georgia,Georgia,WhiteNonHispanicPct2010,55.88
+15000,Hawaii,Hawaii,WhiteNonHispanicPct2010,22.74
+16000,Idaho,Idaho,WhiteNonHispanicPct2010,83.97
+17000,Illinois,Illinois,WhiteNonHispanicPct2010,63.66
+18000,Indiana,Indiana,WhiteNonHispanicPct2010,81.53
+19000,Iowa,Iowa,WhiteNonHispanicPct2010,88.67
+20000,Kansas,Kansas,WhiteNonHispanicPct2010,78.18
+21000,Kentucky,Kentucky,WhiteNonHispanicPct2010,86.32
+22000,Louisiana,Louisiana,WhiteNonHispanicPct2010,60.33
+23000,Maine,Maine,WhiteNonHispanicPct2010,94.42
+24000,Maryland,Maryland,WhiteNonHispanicPct2010,54.7
+25000,Massachusetts,Massachusetts,WhiteNonHispanicPct2010,76.13
+26000,Michigan,Michigan,WhiteNonHispanicPct2010,76.59
+27000,Minnesota,Minnesota,WhiteNonHispanicPct2010,83.05
+28000,Mississippi,Mississippi,WhiteNonHispanicPct2010,58.04
+29000,Missouri,Missouri,WhiteNonHispanicPct2010,81.0
+30000,Montana,Montana,WhiteNonHispanicPct2010,87.79
+31000,Nebraska,Nebraska,WhiteNonHispanicPct2010,82.12
+32000,Nevada,Nevada,WhiteNonHispanicPct2010,54.14
+33000,New Hampshire,New Hampshire,WhiteNonHispanicPct2010,92.3
+34000,New Jersey,New Jersey,WhiteNonHispanicPct2010,59.31
+35000,New Mexico,New Mexico,WhiteNonHispanicPct2010,40.49
+36000,New York,New York,WhiteNonHispanicPct2010,58.34
+37000,North Carolina,North Carolina,WhiteNonHispanicPct2010,65.27
+38000,North Dakota,North Dakota,WhiteNonHispanicPct2010,88.91
+39000,Ohio,Ohio,WhiteNonHispanicPct2010,81.13
+40000,Oklahoma,Oklahoma,WhiteNonHispanicPct2010,68.65
+41000,Oregon,Oregon,WhiteNonHispanicPct2010,78.46
+42000,Pennsylvania,Pennsylvania,WhiteNonHispanicPct2010,79.47
+44000,Rhode Island,Rhode Island,WhiteNonHispanicPct2010,76.35
+45000,South Carolina,South Carolina,WhiteNonHispanicPct2010,64.05
+46000,South Dakota,South Dakota,WhiteNonHispanicPct2010,84.69
+47000,Tennessee,Tennessee,WhiteNonHispanicPct2010,75.65
+48000,Texas,Texas,WhiteNonHispanicPct2010,45.33
+49000,Utah,Utah,WhiteNonHispanicPct2010,80.38
+50000,Vermont,Vermont,WhiteNonHispanicPct2010,94.32
+51000,Virginia,Virginia,WhiteNonHispanicPct2010,64.82
+53000,Washington,Washington,WhiteNonHispanicPct2010,72.52
+54000,West Virginia,West Virginia,WhiteNonHispanicPct2010,93.16
+55000,Wisconsin,Wisconsin,WhiteNonHispanicPct2010,83.32
+56000,Wyoming,Wyoming,WhiteNonHispanicPct2010,85.85
+01000,Alabama,Alabama,BlackNonHispanicPct2010,26.04
+02000,Alaska,Alaska,BlackNonHispanicPct2010,3.09
+04000,Arizona,Arizona,BlackNonHispanicPct2010,3.74
+05000,Arkansas,Arkansas,BlackNonHispanicPct2010,15.33
+06000,California,California,BlackNonHispanicPct2010,5.81
+08000,Colorado,Colorado,BlackNonHispanicPct2010,3.75
+09000,Connecticut,Connecticut,BlackNonHispanicPct2010,9.38
+10000,Delaware,Delaware,BlackNonHispanicPct2010,20.8
+11000,District of Columbia,District of Columbia,BlackNonHispanicPct2010,50.03
+12000,Florida,Florida,BlackNonHispanicPct2010,15.16
+13000,Georgia,Georgia,BlackNonHispanicPct2010,30.05
+15000,Hawaii,Hawaii,BlackNonHispanicPct2010,1.46
+16000,Idaho,Idaho,BlackNonHispanicPct2010,0.57
+17000,Illinois,Illinois,BlackNonHispanicPct2010,14.29
+18000,Indiana,Indiana,BlackNonHispanicPct2010,8.98
+19000,Iowa,Iowa,BlackNonHispanicPct2010,2.85
+20000,Kansas,Kansas,BlackNonHispanicPct2010,5.7
+21000,Kentucky,Kentucky,BlackNonHispanicPct2010,7.68
+22000,Louisiana,Louisiana,BlackNonHispanicPct2010,31.82
+23000,Maine,Maine,BlackNonHispanicPct2010,1.14
+24000,Maryland,Maryland,BlackNonHispanicPct2010,29.0
+25000,Massachusetts,Massachusetts,BlackNonHispanicPct2010,5.98
+26000,Michigan,Michigan,BlackNonHispanicPct2010,14.0
+27000,Minnesota,Minnesota,BlackNonHispanicPct2010,5.07
+28000,Mississippi,Mississippi,BlackNonHispanicPct2010,36.85
+29000,Missouri,Missouri,BlackNonHispanicPct2010,11.47
+30000,Montana,Montana,BlackNonHispanicPct2010,0.38
+31000,Nebraska,Nebraska,BlackNonHispanicPct2010,4.43
+32000,Nevada,Nevada,BlackNonHispanicPct2010,7.7
+33000,New Hampshire,New Hampshire,BlackNonHispanicPct2010,1.03
+34000,New Jersey,New Jersey,BlackNonHispanicPct2010,12.8
+35000,New Mexico,New Mexico,BlackNonHispanicPct2010,1.72
+36000,New York,New York,BlackNonHispanicPct2010,14.37
+37000,North Carolina,North Carolina,BlackNonHispanicPct2010,21.18
+38000,North Dakota,North Dakota,BlackNonHispanicPct2010,1.15
+39000,Ohio,Ohio,BlackNonHispanicPct2010,12.04
+40000,Oklahoma,Oklahoma,BlackNonHispanicPct2010,7.25
+41000,Oregon,Oregon,BlackNonHispanicPct2010,1.7
+42000,Pennsylvania,Pennsylvania,BlackNonHispanicPct2010,10.45
+44000,Rhode Island,Rhode Island,BlackNonHispanicPct2010,4.9
+45000,South Carolina,South Carolina,BlackNonHispanicPct2010,27.67
+46000,South Dakota,South Dakota,BlackNonHispanicPct2010,1.22
+47000,Tennessee,Tennessee,BlackNonHispanicPct2010,16.54
+48000,Texas,Texas,BlackNonHispanicPct2010,11.48
+49000,Utah,Utah,BlackNonHispanicPct2010,0.94
+50000,Vermont,Vermont,BlackNonHispanicPct2010,0.95
+51000,Virginia,Virginia,BlackNonHispanicPct2010,19.04
+53000,Washington,Washington,BlackNonHispanicPct2010,3.41
+54000,West Virginia,West Virginia,BlackNonHispanicPct2010,3.35
+55000,Wisconsin,Wisconsin,BlackNonHispanicPct2010,6.17
+56000,Wyoming,Wyoming,BlackNonHispanicPct2010,0.77
+01000,Alabama,Alabama,AsianNonHispanicPct2010,1.11
+02000,Alaska,Alaska,AsianNonHispanicPct2010,5.27
+04000,Arizona,Arizona,AsianNonHispanicPct2010,2.67
+05000,Arkansas,Arkansas,AsianNonHispanicPct2010,1.22
+06000,California,California,AsianNonHispanicPct2010,12.82
+08000,Colorado,Colorado,AsianNonHispanicPct2010,2.7
+09000,Connecticut,Connecticut,AsianNonHispanicPct2010,3.75
+10000,Delaware,Delaware,AsianNonHispanicPct2010,3.15
+11000,District of Columbia,District of Columbia,AsianNonHispanicPct2010,3.46
+12000,Florida,Florida,AsianNonHispanicPct2010,2.37
+13000,Georgia,Georgia,AsianNonHispanicPct2010,3.22
+15000,Hawaii,Hawaii,AsianNonHispanicPct2010,37.73
+16000,Idaho,Idaho,AsianNonHispanicPct2010,1.18
+17000,Illinois,Illinois,AsianNonHispanicPct2010,4.52
+18000,Indiana,Indiana,AsianNonHispanicPct2010,1.56
+19000,Iowa,Iowa,AsianNonHispanicPct2010,1.73
+20000,Kansas,Kansas,AsianNonHispanicPct2010,2.35
+21000,Kentucky,Kentucky,AsianNonHispanicPct2010,1.11
+22000,Louisiana,Louisiana,AsianNonHispanicPct2010,1.53
+23000,Maine,Maine,AsianNonHispanicPct2010,1.01
+24000,Maryland,Maryland,AsianNonHispanicPct2010,5.49
+25000,Massachusetts,Massachusetts,AsianNonHispanicPct2010,5.31
+26000,Michigan,Michigan,AsianNonHispanicPct2010,2.39
+27000,Minnesota,Minnesota,AsianNonHispanicPct2010,4.02
+28000,Mississippi,Mississippi,AsianNonHispanicPct2010,0.86
+29000,Missouri,Missouri,AsianNonHispanicPct2010,1.62
+30000,Montana,Montana,AsianNonHispanicPct2010,0.62
+31000,Nebraska,Nebraska,AsianNonHispanicPct2010,1.75
+32000,Nevada,Nevada,AsianNonHispanicPct2010,7.07
+33000,New Hampshire,New Hampshire,AsianNonHispanicPct2010,2.15
+34000,New Jersey,New Jersey,AsianNonHispanicPct2010,8.19
+35000,New Mexico,New Mexico,AsianNonHispanicPct2010,1.28
+36000,New York,New York,AsianNonHispanicPct2010,7.26
+37000,North Carolina,North Carolina,AsianNonHispanicPct2010,2.17
+38000,North Dakota,North Dakota,AsianNonHispanicPct2010,1.02
+39000,Ohio,Ohio,AsianNonHispanicPct2010,1.65
+40000,Oklahoma,Oklahoma,AsianNonHispanicPct2010,1.71
+41000,Oregon,Oregon,AsianNonHispanicPct2010,3.64
+42000,Pennsylvania,Pennsylvania,AsianNonHispanicPct2010,2.73
+44000,Rhode Island,Rhode Island,AsianNonHispanicPct2010,2.85
+45000,South Carolina,South Carolina,AsianNonHispanicPct2010,1.26
+46000,South Dakota,South Dakota,AsianNonHispanicPct2010,0.93
+47000,Tennessee,Tennessee,AsianNonHispanicPct2010,1.42
+48000,Texas,Texas,AsianNonHispanicPct2010,3.77
+49000,Utah,Utah,AsianNonHispanicPct2010,1.96
+50000,Vermont,Vermont,AsianNonHispanicPct2010,1.26
+51000,Virginia,Virginia,AsianNonHispanicPct2010,5.45
+53000,Washington,Washington,AsianNonHispanicPct2010,7.07
+54000,West Virginia,West Virginia,AsianNonHispanicPct2010,0.66
+55000,Wisconsin,Wisconsin,AsianNonHispanicPct2010,2.25
+56000,Wyoming,Wyoming,AsianNonHispanicPct2010,0.76
+01000,Alabama,Alabama,NativeAmericanNonHispanicPct2010,0.54
+02000,Alaska,Alaska,NativeAmericanNonHispanicPct2010,14.44
+04000,Arizona,Arizona,NativeAmericanNonHispanicPct2010,4.03
+05000,Arkansas,Arkansas,NativeAmericanNonHispanicPct2010,0.69
+06000,California,California,NativeAmericanNonHispanicPct2010,0.44
+08000,Colorado,Colorado,NativeAmericanNonHispanicPct2010,0.62
+09000,Connecticut,Connecticut,NativeAmericanNonHispanicPct2010,0.19
+10000,Delaware,Delaware,NativeAmericanNonHispanicPct2010,0.31
+11000,District of Columbia,District of Columbia,NativeAmericanNonHispanicPct2010,0.22
+12000,Florida,Florida,NativeAmericanNonHispanicPct2010,0.25
+13000,Georgia,Georgia,NativeAmericanNonHispanicPct2010,0.22
+15000,Hawaii,Hawaii,NativeAmericanNonHispanicPct2010,0.21
+16000,Idaho,Idaho,NativeAmericanNonHispanicPct2010,1.12
+17000,Illinois,Illinois,NativeAmericanNonHispanicPct2010,0.15
+18000,Indiana,Indiana,NativeAmericanNonHispanicPct2010,0.22
+19000,Iowa,Iowa,NativeAmericanNonHispanicPct2010,0.28
+20000,Kansas,Kansas,NativeAmericanNonHispanicPct2010,0.81
+21000,Kentucky,Kentucky,NativeAmericanNonHispanicPct2010,0.2
+22000,Louisiana,Louisiana,NativeAmericanNonHispanicPct2010,0.62
+23000,Maine,Maine,NativeAmericanNonHispanicPct2010,0.62
+24000,Maryland,Maryland,NativeAmericanNonHispanicPct2010,0.24
+25000,Massachusetts,Massachusetts,NativeAmericanNonHispanicPct2010,0.16
+26000,Michigan,Michigan,NativeAmericanNonHispanicPct2010,0.55
+27000,Minnesota,Minnesota,NativeAmericanNonHispanicPct2010,1.04
+28000,Mississippi,Mississippi,NativeAmericanNonHispanicPct2010,0.47
+29000,Missouri,Missouri,NativeAmericanNonHispanicPct2010,0.4
+30000,Montana,Montana,NativeAmericanNonHispanicPct2010,6.05
+31000,Nebraska,Nebraska,NativeAmericanNonHispanicPct2010,0.81
+32000,Nevada,Nevada,NativeAmericanNonHispanicPct2010,0.87
+33000,New Hampshire,New Hampshire,NativeAmericanNonHispanicPct2010,0.2
+34000,New Jersey,New Jersey,NativeAmericanNonHispanicPct2010,0.14
+35000,New Mexico,New Mexico,NativeAmericanNonHispanicPct2010,8.52
+36000,New York,New York,NativeAmericanNonHispanicPct2010,0.28
+37000,North Carolina,North Carolina,NativeAmericanNonHispanicPct2010,1.14
+38000,North Dakota,North Dakota,NativeAmericanNonHispanicPct2010,5.29
+39000,Ohio,Ohio,NativeAmericanNonHispanicPct2010,0.18
+40000,Oklahoma,Oklahoma,NativeAmericanNonHispanicPct2010,8.23
+41000,Oregon,Oregon,NativeAmericanNonHispanicPct2010,1.11
+42000,Pennsylvania,Pennsylvania,NativeAmericanNonHispanicPct2010,0.13
+44000,Rhode Island,Rhode Island,NativeAmericanNonHispanicPct2010,0.38
+45000,South Carolina,South Carolina,NativeAmericanNonHispanicPct2010,0.36
+46000,South Dakota,South Dakota,NativeAmericanNonHispanicPct2010,8.53
+47000,Tennessee,Tennessee,NativeAmericanNonHispanicPct2010,0.26
+48000,Texas,Texas,NativeAmericanNonHispanicPct2010,0.32
+49000,Utah,Utah,NativeAmericanNonHispanicPct2010,0.98
+50000,Vermont,Vermont,NativeAmericanNonHispanicPct2010,0.32
+51000,Virginia,Virginia,NativeAmericanNonHispanicPct2010,0.26
+53000,Washington,Washington,NativeAmericanNonHispanicPct2010,1.32
+54000,West Virginia,West Virginia,NativeAmericanNonHispanicPct2010,0.19
+55000,Wisconsin,Wisconsin,NativeAmericanNonHispanicPct2010,0.85
+56000,Wyoming,Wyoming,NativeAmericanNonHispanicPct2010,2.09
+01000,Alabama,Alabama,HispanicPct2010,3.88
+02000,Alaska,Alaska,HispanicPct2010,5.53
+04000,Arizona,Arizona,HispanicPct2010,29.65
+05000,Arkansas,Arkansas,HispanicPct2010,6.38
+06000,California,California,HispanicPct2010,37.62
+08000,Colorado,Colorado,HispanicPct2010,20.65
+09000,Connecticut,Connecticut,HispanicPct2010,13.4
+10000,Delaware,Delaware,HispanicPct2010,8.15
+11000,District of Columbia,District of Columbia,HispanicPct2010,9.1
+12000,Florida,Florida,HispanicPct2010,22.47
+13000,Georgia,Georgia,HispanicPct2010,8.81
+15000,Hawaii,Hawaii,HispanicPct2010,8.88
+16000,Idaho,Idaho,HispanicPct2010,11.22
+17000,Illinois,Illinois,HispanicPct2010,15.8
+18000,Indiana,Indiana,HispanicPct2010,6.01
+19000,Iowa,Iowa,HispanicPct2010,4.97
+20000,Kansas,Kansas,HispanicPct2010,10.52
+21000,Kentucky,Kentucky,HispanicPct2010,3.06
+22000,Louisiana,Louisiana,HispanicPct2010,4.25
+23000,Maine,Maine,HispanicPct2010,1.27
+24000,Maryland,Maryland,HispanicPct2010,8.15
+25000,Massachusetts,Massachusetts,HispanicPct2010,9.59
+26000,Michigan,Michigan,HispanicPct2010,4.41
+27000,Minnesota,Minnesota,HispanicPct2010,4.72
+28000,Mississippi,Mississippi,HispanicPct2010,2.75
+29000,Missouri,Missouri,HispanicPct2010,3.55
+30000,Montana,Montana,HispanicPct2010,2.89
+31000,Nebraska,Nebraska,HispanicPct2010,9.17
+32000,Nevada,Nevada,HispanicPct2010,26.53
+33000,New Hampshire,New Hampshire,HispanicPct2010,2.79
+34000,New Jersey,New Jersey,HispanicPct2010,17.69
+35000,New Mexico,New Mexico,HispanicPct2010,46.3
+36000,New York,New York,HispanicPct2010,17.63
+37000,North Carolina,North Carolina,HispanicPct2010,8.39
+38000,North Dakota,North Dakota,HispanicPct2010,2.0
+39000,Ohio,Ohio,HispanicPct2010,3.07
+40000,Oklahoma,Oklahoma,HispanicPct2010,8.85
+41000,Oregon,Oregon,HispanicPct2010,11.75
+42000,Pennsylvania,Pennsylvania,HispanicPct2010,5.67
+44000,Rhode Island,Rhode Island,HispanicPct2010,12.41
+45000,South Carolina,South Carolina,HispanicPct2010,5.1
+46000,South Dakota,South Dakota,HispanicPct2010,2.72
+47000,Tennessee,Tennessee,HispanicPct2010,4.57
+48000,Texas,Texas,HispanicPct2010,37.62
+49000,Utah,Utah,HispanicPct2010,12.97
+50000,Vermont,Vermont,HispanicPct2010,1.47
+51000,Virginia,Virginia,HispanicPct2010,7.9
+53000,Washington,Washington,HispanicPct2010,11.24
+54000,West Virginia,West Virginia,HispanicPct2010,1.2
+55000,Wisconsin,Wisconsin,HispanicPct2010,5.91
+56000,Wyoming,Wyoming,HispanicPct2010,8.91
+01000,Alabama,Alabama,Under18Pct2010,23.69
+02000,Alaska,Alaska,Under18Pct2010,26.38
+04000,Arizona,Arizona,Under18Pct2010,25.49
+05000,Arkansas,Arkansas,Under18Pct2010,24.4
+06000,California,California,Under18Pct2010,24.95
+08000,Colorado,Colorado,Under18Pct2010,24.37
+09000,Connecticut,Connecticut,Under18Pct2010,22.86
+10000,Delaware,Delaware,Under18Pct2010,22.92
+11000,District of Columbia,District of Columbia,Under18Pct2010,16.75
+12000,Florida,Florida,Under18Pct2010,21.29
+13000,Georgia,Georgia,Under18Pct2010,25.72
+15000,Hawaii,Hawaii,Under18Pct2010,22.33
+16000,Idaho,Idaho,Under18Pct2010,27.37
+17000,Illinois,Illinois,Under18Pct2010,24.39
+18000,Indiana,Indiana,Under18Pct2010,24.8
+19000,Iowa,Iowa,Under18Pct2010,23.9
+20000,Kansas,Kansas,Under18Pct2010,25.48
+21000,Kentucky,Kentucky,Under18Pct2010,23.58
+22000,Louisiana,Louisiana,Under18Pct2010,24.66
+23000,Maine,Maine,Under18Pct2010,20.67
+24000,Maryland,Maryland,Under18Pct2010,23.43
+25000,Massachusetts,Massachusetts,Under18Pct2010,21.67
+26000,Michigan,Michigan,Under18Pct2010,23.72
+27000,Minnesota,Minnesota,Under18Pct2010,24.21
+28000,Mississippi,Mississippi,Under18Pct2010,25.46
+29000,Missouri,Missouri,Under18Pct2010,23.8
+30000,Montana,Montana,Under18Pct2010,22.6
+31000,Nebraska,Nebraska,Under18Pct2010,25.14
+32000,Nevada,Nevada,Under18Pct2010,24.62
+33000,New Hampshire,New Hampshire,Under18Pct2010,21.82
+34000,New Jersey,New Jersey,Under18Pct2010,23.49
+35000,New Mexico,New Mexico,Under18Pct2010,25.19
+36000,New York,New York,Under18Pct2010,22.32
+37000,North Carolina,North Carolina,Under18Pct2010,23.93
+38000,North Dakota,North Dakota,Under18Pct2010,22.28
+39000,Ohio,Ohio,Under18Pct2010,23.67
+40000,Oklahoma,Oklahoma,Under18Pct2010,24.78
+41000,Oregon,Oregon,Under18Pct2010,22.62
+42000,Pennsylvania,Pennsylvania,Under18Pct2010,21.98
+44000,Rhode Island,Rhode Island,Under18Pct2010,21.28
+45000,South Carolina,South Carolina,Under18Pct2010,23.36
+46000,South Dakota,South Dakota,Under18Pct2010,24.91
+47000,Tennessee,Tennessee,Under18Pct2010,23.57
+48000,Texas,Texas,Under18Pct2010,27.3
+49000,Utah,Utah,Under18Pct2010,31.51
+50000,Vermont,Vermont,Under18Pct2010,20.65
+51000,Virginia,Virginia,Under18Pct2010,23.17
+53000,Washington,Washington,Under18Pct2010,23.52
+54000,West Virginia,West Virginia,Under18Pct2010,20.91
+55000,Wisconsin,Wisconsin,Under18Pct2010,23.55
+56000,Wyoming,Wyoming,Under18Pct2010,24.02
+01000,Alabama,Alabama,Age65AndOlderPct2010,13.76
+02000,Alaska,Alaska,Age65AndOlderPct2010,7.74
+04000,Arizona,Arizona,Age65AndOlderPct2010,13.8
+05000,Arkansas,Arkansas,Age65AndOlderPct2010,14.4
+06000,California,California,Age65AndOlderPct2010,11.4
+08000,Colorado,Colorado,Age65AndOlderPct2010,10.93
+09000,Connecticut,Connecticut,Age65AndOlderPct2010,14.17
+10000,Delaware,Delaware,Age65AndOlderPct2010,14.4
+11000,District of Columbia,District of Columbia,Age65AndOlderPct2010,11.44
+12000,Florida,Florida,Age65AndOlderPct2010,17.34
+13000,Georgia,Georgia,Age65AndOlderPct2010,10.65
+15000,Hawaii,Hawaii,Age65AndOlderPct2010,14.35
+16000,Idaho,Idaho,Age65AndOlderPct2010,12.42
+17000,Illinois,Illinois,Age65AndOlderPct2010,12.54
+18000,Indiana,Indiana,Age65AndOlderPct2010,12.97
+19000,Iowa,Iowa,Age65AndOlderPct2010,14.87
+20000,Kansas,Kansas,Age65AndOlderPct2010,13.18
+21000,Kentucky,Kentucky,Age65AndOlderPct2010,13.33
+22000,Louisiana,Louisiana,Age65AndOlderPct2010,12.31
+23000,Maine,Maine,Age65AndOlderPct2010,15.89
+24000,Maryland,Maryland,Age65AndOlderPct2010,12.26
+25000,Massachusetts,Massachusetts,Age65AndOlderPct2010,13.79
+26000,Michigan,Michigan,Age65AndOlderPct2010,13.78
+27000,Minnesota,Minnesota,Age65AndOlderPct2010,12.88
+28000,Mississippi,Mississippi,Age65AndOlderPct2010,12.82
+29000,Missouri,Missouri,Age65AndOlderPct2010,14.0
+30000,Montana,Montana,Age65AndOlderPct2010,14.83
+31000,Nebraska,Nebraska,Age65AndOlderPct2010,13.51
+32000,Nevada,Nevada,Age65AndOlderPct2010,12.01
+33000,New Hampshire,New Hampshire,Age65AndOlderPct2010,13.54
+34000,New Jersey,New Jersey,Age65AndOlderPct2010,13.49
+35000,New Mexico,New Mexico,Age65AndOlderPct2010,13.22
+36000,New York,New York,Age65AndOlderPct2010,13.51
+37000,North Carolina,North Carolina,Age65AndOlderPct2010,12.94
+38000,North Dakota,North Dakota,Age65AndOlderPct2010,14.49
+39000,Ohio,Ohio,Age65AndOlderPct2010,14.06
+40000,Oklahoma,Oklahoma,Age65AndOlderPct2010,13.51
+41000,Oregon,Oregon,Age65AndOlderPct2010,13.93
+42000,Pennsylvania,Pennsylvania,Age65AndOlderPct2010,15.42
+44000,Rhode Island,Rhode Island,Age65AndOlderPct2010,14.43
+45000,South Carolina,South Carolina,Age65AndOlderPct2010,13.66
+46000,South Dakota,South Dakota,Age65AndOlderPct2010,14.32
+47000,Tennessee,Tennessee,Age65AndOlderPct2010,13.45
+48000,Texas,Texas,Age65AndOlderPct2010,10.35
+49000,Utah,Utah,Age65AndOlderPct2010,9.03
+50000,Vermont,Vermont,Age65AndOlderPct2010,14.56
+51000,Virginia,Virginia,Age65AndOlderPct2010,12.21
+53000,Washington,Washington,Age65AndOlderPct2010,12.31
+54000,West Virginia,West Virginia,Age65AndOlderPct2010,16.05
+55000,Wisconsin,Wisconsin,Age65AndOlderPct2010,13.67
+56000,Wyoming,Wyoming,Age65AndOlderPct2010,12.44
+01000,Alabama,Alabama,MedHHInc,49881.0
+02000,Alaska,Alaska,MedHHInc,74912.0
+04000,Arizona,Arizona,MedHHInc,59079.0
+05000,Arkansas,Arkansas,MedHHInc,47094.0
+06000,California,California,MedHHInc,75250.0
+08000,Colorado,Colorado,MedHHInc,71949.0
+09000,Connecticut,Connecticut,MedHHInc,76366.0
+10000,Delaware,Delaware,MedHHInc,65467.0
+11000,District of Columbia,District of Columbia,MedHHInc,82533.0
+12000,Florida,Florida,MedHHInc,55433.0
+13000,Georgia,Georgia,MedHHInc,58634.0
+15000,Hawaii,Hawaii,MedHHInc,80527.0
+16000,Idaho,Idaho,MedHHInc,55524.0
+17000,Illinois,Illinois,MedHHInc,65063.0
+18000,Indiana,Indiana,MedHHInc,55725.0
+19000,Iowa,Iowa,MedHHInc,60071.0
+20000,Kansas,Kansas,MedHHInc,58150.0
+21000,Kentucky,Kentucky,MedHHInc,50189.0
+22000,Louisiana,Louisiana,MedHHInc,48021.0
+23000,Maine,Maine,MedHHInc,55579.0
+24000,Maryland,Maryland,MedHHInc,83076.0
+25000,Massachusetts,Massachusetts,MedHHInc,79817.0
+26000,Michigan,Michigan,MedHHInc,56640.0
+27000,Minnesota,Minnesota,MedHHInc,70295.0
+28000,Mississippi,Mississippi,MedHHInc,44740.0
+29000,Missouri,Missouri,MedHHInc,54412.0
+30000,Montana,Montana,MedHHInc,55248.0
+31000,Nebraska,Nebraska,MedHHInc,59724.0
+32000,Nevada,Nevada,MedHHInc,58740.0
+33000,New Hampshire,New Hampshire,MedHHInc,75322.0
+34000,New Jersey,New Jersey,MedHHInc,81777.0
+35000,New Mexico,New Mexico,MedHHInc,47405.0
+36000,New York,New York,MedHHInc,67648.0
+37000,North Carolina,North Carolina,MedHHInc,53922.0
+38000,North Dakota,North Dakota,MedHHInc,65250.0
+39000,Ohio,Ohio,MedHHInc,56155.0
+40000,Oklahoma,Oklahoma,MedHHInc,51914.0
+41000,Oregon,Oregon,MedHHInc,63168.0
+42000,Pennsylvania,Pennsylvania,MedHHInc,60891.0
+44000,Rhode Island,Rhode Island,MedHHInc,63787.0
+45000,South Carolina,South Carolina,MedHHInc,52449.0
+46000,South Dakota,South Dakota,MedHHInc,57041.0
+47000,Tennessee,Tennessee,MedHHInc,52366.0
+48000,Texas,Texas,MedHHInc,60632.0
+49000,Utah,Utah,MedHHInc,71381.0
+50000,Vermont,Vermont,MedHHInc,60917.0
+51000,Virginia,Virginia,MedHHInc,72600.0
+53000,Washington,Washington,MedHHInc,74023.0
+54000,West Virginia,West Virginia,MedHHInc,44038.0
+55000,Wisconsin,Wisconsin,MedHHInc,60779.0
+56000,Wyoming,Wyoming,MedHHInc,62259.0
+72000,Puerto Rico,Puerto Rico,MedHHInc,
+01000,Alabama,Alabama,prop_gop_vote,0.620316431668648
+02000,Alaska,Alaska,prop_gop_vote,0.5283314327038078
+04000,Arizona,Arizona,prop_gop_vote,0.4905598103046474
+05000,Arkansas,Arkansas,prop_gop_vote,0.6239572985614432
+06000,California,California,prop_gop_vote,0.3432072362528492
+08000,Colorado,Colorado,prop_gop_vote,0.4160412563491241
+09000,Connecticut,Connecticut,prop_gop_vote,0.3918711828833072
+10000,Delaware,Delaware,prop_gop_vote,0.3977487677110555
+11000,District of Columbia,District of Columbia,prop_gop_vote,0.05397321376714795
+12000,Florida,Florida,prop_gop_vote,0.5121981962250404
+13000,Georgia,Georgia,prop_gop_vote,0.492374738997912
+15000,Hawaii,Hawaii,prop_gop_vote,0.3395471416941482
+16000,Idaho,Idaho,prop_gop_vote,0.6383756483190364
+17000,Illinois,Illinois,prop_gop_vote,0.40553450818173725
+18000,Indiana,Indiana,prop_gop_vote,0.5702115776570512
+19000,Iowa,Iowa,prop_gop_vote,0.5280019763194579
+20000,Kansas,Kansas,prop_gop_vote,0.5621251283426474
+21000,Kentucky,Kentucky,prop_gop_vote,0.6208657186929044
+22000,Louisiana,Louisiana,prop_gop_vote,0.5846088241400853
+23000,Maine,Maine,prop_gop_vote,0.43551228110418266
+24000,Maryland,Maryland,prop_gop_vote,0.32150291567748757
+25000,Massachusetts,Massachusetts,prop_gop_vote,0.3190815758863096
+26000,Michigan,Michigan,prop_gop_vote,0.4783729069113762
+27000,Minnesota,Minnesota,prop_gop_vote,0.4528494240916937
+28000,Mississippi,Mississippi,prop_gop_vote,0.5760295457538255
+29000,Missouri,Missouri,prop_gop_vote,0.5679965577888949
+30000,Montana,Montana,prop_gop_vote,0.5691846924002028
+31000,Nebraska,Nebraska,prop_gop_vote,0.5822416333205421
+32000,Nevada,Nevada,prop_gop_vote,0.4766624732455941
+33000,New Hampshire,New Hampshire,prop_gop_vote,0.45356259504677604
+34000,New Jersey,New Jersey,prop_gop_vote,0.41396523857348505
+35000,New Mexico,New Mexico,prop_gop_vote,0.43496669246129455
+36000,New York,New York,prop_gop_vote,0.3746129384009093
+37000,North Carolina,North Carolina,prop_gop_vote,0.4993433248829551
+38000,North Dakota,North Dakota,prop_gop_vote,0.6511404873707572
+39000,Ohio,Ohio,prop_gop_vote,0.5327130010087464
+40000,Oklahoma,Oklahoma,prop_gop_vote,0.6537327184806295
+41000,Oregon,Oregon,prop_gop_vote,0.4036724604634335
+42000,Pennsylvania,Pennsylvania,prop_gop_vote,0.4884361204017247
+44000,Rhode Island,Rhode Island,prop_gop_vote,0.38670380471575855
+45000,South Carolina,South Carolina,prop_gop_vote,0.5509348091719648
+46000,South Dakota,South Dakota,prop_gop_vote,0.6176938967225024
+47000,Tennessee,Tennessee,prop_gop_vote,0.6066029416628381
+48000,Texas,Texas,prop_gop_vote,0.5205760360355265
+49000,Utah,Utah,prop_gop_vote,0.5812983902991959
+50000,Vermont,Vermont,prop_gop_vote,0.3038105712622113
+51000,Virginia,Virginia,prop_gop_vote,0.4399550366728214
+53000,Washington,Washington,prop_gop_vote,0.3876697774334327
+54000,West Virginia,West Virginia,prop_gop_vote,0.6863155192461606
+55000,Wisconsin,Wisconsin,prop_gop_vote,0.48822437319608825
+56000,Wyoming,Wyoming,prop_gop_vote,0.6949978994840271
+01000,Alabama,Alabama,prop_dem_vote,0.36569990212122333
+02000,Alaska,Alaska,prop_dem_vote,0.42771952271020497
+04000,Arizona,Arizona,prop_dem_vote,0.49364690614366613
+05000,Arkansas,Arkansas,prop_dem_vote,0.34775061953014963
+06000,California,California,prop_dem_vote,0.6348394689387351
+08000,Colorado,Colorado,prop_dem_vote,0.5501106714065329
+09000,Connecticut,Connecticut,prop_dem_vote,0.5926073151568352
+10000,Delaware,Delaware,prop_dem_vote,0.5874300579364167
+11000,District of Columbia,District of Columbia,prop_dem_vote,0.9214969392140692
+12000,Florida,Florida,prop_dem_vote,0.47861450725442234
+13000,Georgia,Georgia,prop_dem_vote,0.49473055784446274
+15000,Hawaii,Hawaii,prop_dem_vote,0.6314937976901742
+16000,Idaho,Idaho,prop_dem_vote,0.33066402154803953
+17000,Illinois,Illinois,prop_dem_vote,0.5754164537667581
+18000,Indiana,Indiana,prop_dem_vote,0.4096167705971215
+19000,Iowa,Iowa,prop_dem_vote,0.4464723285866375
+20000,Kansas,Kansas,prop_dem_vote,0.41559553538832167
+21000,Kentucky,Kentucky,prop_dem_vote,0.3615151481115404
+22000,Louisiana,Louisiana,prop_dem_vote,0.39851456801526214
+23000,Maine,Maine,prop_dem_vote,0.5252557934577239
+24000,Maryland,Maryland,prop_dem_vote,0.6536066486007711
+25000,Massachusetts,Massachusetts,prop_dem_vote,0.6512298370286536
+26000,Michigan,Michigan,prop_dem_vote,0.5062081829082437
+27000,Minnesota,Minnesota,prop_dem_vote,0.5239509930974001
+28000,Mississippi,Mississippi,prop_dem_vote,0.41057606455978607
+29000,Missouri,Missouri,prop_dem_vote,0.4140878173618836
+30000,Montana,Montana,prop_dem_vote,0.4054936936160908
+31000,Nebraska,Nebraska,prop_dem_vote,0.39166630941787967
+32000,Nevada,Nevada,prop_dem_vote,0.5005678195728402
+33000,New Hampshire,New Hampshire,prop_dem_vote,0.5270782528014766
+34000,New Jersey,New Jersey,prop_dem_vote,0.5733419675281298
+35000,New Mexico,New Mexico,prop_dem_vote,0.5428928584957222
+36000,New York,New York,prop_dem_vote,0.603918845358349
+37000,North Carolina,North Carolina,prop_dem_vote,0.4858621177736324
+38000,North Dakota,North Dakota,prop_dem_vote,0.31756762359080093
+39000,Ohio,Ohio,prop_dem_vote,0.45239338340705026
+40000,Oklahoma,Oklahoma,prop_dem_vote,0.32286174335986634
+41000,Oregon,Oregon,prop_dem_vote,0.5645331865404888
+42000,Pennsylvania,Pennsylvania,prop_dem_vote,0.5000849567544814
+44000,Rhode Island,Rhode Island,prop_dem_vote,0.5947619876593357
+45000,South Carolina,South Carolina,prop_dem_vote,0.43416838497813925
+46000,South Dakota,South Dakota,prop_dem_vote,0.3560525213613529
+47000,Tennessee,Tennessee,prop_dem_vote,0.37451434271023704
+48000,Texas,Texas,prop_dem_vote,0.4647900991387051
+49000,Utah,Utah,prop_dem_vote,0.37646048583306063
+50000,Vermont,Vermont,prop_dem_vote,0.6545578055250049
+51000,Virginia,Virginia,prop_dem_vote,0.5410951717780242
+53000,Washington,Washington,prop_dem_vote,0.5797030113530306
+54000,West Virginia,West Virginia,prop_dem_vote,0.29696521244519614
+55000,Wisconsin,Wisconsin,prop_dem_vote,0.4944953686142774
+56000,Wyoming,Wyoming,prop_dem_vote,0.26387866557990397
+01000,Alabama,Alabama,total_votes,2323282.0
+02000,Alaska,Alaska,total_votes,359530.0
+04000,Arizona,Arizona,total_votes,3387326.0
+05000,Arkansas,Arkansas,total_votes,1219069.0
+06000,California,California,total_votes,17500881.0
+08000,Colorado,Colorado,total_votes,3279980.0
+09000,Connecticut,Connecticut,total_votes,1823857.0
+10000,Delaware,Delaware,total_votes,504346.0
+11000,District of Columbia,District of Columbia,total_votes,344356.0
+12000,Florida,Florida,total_votes,11067456.0
+13000,Georgia,Georgia,total_votes,4999960.0
+15000,Hawaii,Hawaii,total_votes,579784.0
+16000,Idaho,Idaho,total_votes,868014.0
+17000,Illinois,Illinois,total_votes,6033743.0
+18000,Indiana,Indiana,total_votes,3033118.0
+19000,Iowa,Iowa,total_votes,1700130.0
+20000,Kansas,Kansas,total_votes,1372303.0
+21000,Kentucky,Kentucky,total_votes,2136768.0
+22000,Louisiana,Louisiana,total_votes,2148062.0
+23000,Maine,Maine,total_votes,828305.0
+24000,Maryland,Maryland,total_votes,3037030.0
+25000,Massachusetts,Massachusetts,total_votes,3658005.0
+26000,Michigan,Michigan,total_votes,5539302.0
+27000,Minnesota,Minnesota,total_votes,3277171.0
+28000,Mississippi,Mississippi,total_votes,1313759.0
+29000,Missouri,Missouri,total_votes,3025962.0
+30000,Montana,Montana,total_votes,603674.0
+31000,Nebraska,Nebraska,total_votes,956383.0
+32000,Nevada,Nevada,total_votes,1405376.0
+33000,New Hampshire,New Hampshire,total_votes,806182.0
+34000,New Jersey,New Jersey,total_votes,4549353.0
+35000,New Mexico,New Mexico,total_votes,923965.0
+36000,New York,New York,total_votes,8661735.0
+37000,North Carolina,North Carolina,total_votes,5524802.0
+38000,North Dakota,North Dakota,total_votes,361819.0
+39000,Ohio,Ohio,total_votes,5922202.0
+40000,Oklahoma,Oklahoma,total_votes,1560699.0
+41000,Oregon,Oregon,total_votes,2374321.0
+42000,Pennsylvania,Pennsylvania,total_votes,6915283.0
+44000,Rhode Island,Rhode Island,total_votes,516990.0
+45000,South Carolina,South Carolina,total_votes,2514096.0
+46000,South Dakota,South Dakota,total_votes,422609.0
+47000,Tennessee,Tennessee,total_votes,3053851.0
+48000,Texas,Texas,total_votes,11315056.0
+49000,Utah,Utah,total_votes,1488289.0
+50000,Vermont,Vermont,total_votes,370968.0
+51000,Virginia,Virginia,total_votes,4460524.0
+53000,Washington,Washington,total_votes,4087631.0
+54000,West Virginia,West Virginia,total_votes,794652.0
+55000,Wisconsin,Wisconsin,total_votes,3298041.0
+56000,Wyoming,Wyoming,total_votes,278503.0
+01000,Alabama,Alabama,"Percent of adults with a bachelor's degree or higher, 2015-19",25.5
+02000,Alaska,Alaska,"Percent of adults with a bachelor's degree or higher, 2015-19",29.6
+04000,Arizona,Arizona,"Percent of adults with a bachelor's degree or higher, 2015-19",29.5
+05000,Arkansas,Arkansas,"Percent of adults with a bachelor's degree or higher, 2015-19",23.0
+06000,California,California,"Percent of adults with a bachelor's degree or higher, 2015-19",33.9
+08000,Colorado,Colorado,"Percent of adults with a bachelor's degree or higher, 2015-19",40.9
+09000,Connecticut,Connecticut,"Percent of adults with a bachelor's degree or higher, 2015-19",39.3
+10000,Delaware,Delaware,"Percent of adults with a bachelor's degree or higher, 2015-19",32.0
+11000,District of Columbia,District of Columbia,"Percent of adults with a bachelor's degree or higher, 2015-19",58.5
+12000,Florida,Florida,"Percent of adults with a bachelor's degree or higher, 2015-19",29.9
+13000,Georgia,Georgia,"Percent of adults with a bachelor's degree or higher, 2015-19",31.3
+15000,Hawaii,Hawaii,"Percent of adults with a bachelor's degree or higher, 2015-19",33.0
+16000,Idaho,Idaho,"Percent of adults with a bachelor's degree or higher, 2015-19",27.6
+17000,Illinois,Illinois,"Percent of adults with a bachelor's degree or higher, 2015-19",34.7
+18000,Indiana,Indiana,"Percent of adults with a bachelor's degree or higher, 2015-19",26.5
+19000,Iowa,Iowa,"Percent of adults with a bachelor's degree or higher, 2015-19",28.6
+20000,Kansas,Kansas,"Percent of adults with a bachelor's degree or higher, 2015-19",33.4
+21000,Kentucky,Kentucky,"Percent of adults with a bachelor's degree or higher, 2015-19",24.2
+22000,Louisiana,Louisiana,"Percent of adults with a bachelor's degree or higher, 2015-19",24.1
+23000,Maine,Maine,"Percent of adults with a bachelor's degree or higher, 2015-19",31.8
+24000,Maryland,Maryland,"Percent of adults with a bachelor's degree or higher, 2015-19",40.2
+25000,Massachusetts,Massachusetts,"Percent of adults with a bachelor's degree or higher, 2015-19",43.7
+26000,Michigan,Michigan,"Percent of adults with a bachelor's degree or higher, 2015-19",29.1
+27000,Minnesota,Minnesota,"Percent of adults with a bachelor's degree or higher, 2015-19",36.1
+28000,Mississippi,Mississippi,"Percent of adults with a bachelor's degree or higher, 2015-19",22.0
+29000,Missouri,Missouri,"Percent of adults with a bachelor's degree or higher, 2015-19",29.2
+30000,Montana,Montana,"Percent of adults with a bachelor's degree or higher, 2015-19",32.0
+31000,Nebraska,Nebraska,"Percent of adults with a bachelor's degree or higher, 2015-19",31.9
+32000,Nevada,Nevada,"Percent of adults with a bachelor's degree or higher, 2015-19",24.7
+33000,New Hampshire,New Hampshire,"Percent of adults with a bachelor's degree or higher, 2015-19",37.0
+34000,New Jersey,New Jersey,"Percent of adults with a bachelor's degree or higher, 2015-19",39.7
+35000,New Mexico,New Mexico,"Percent of adults with a bachelor's degree or higher, 2015-19",27.3
+36000,New York,New York,"Percent of adults with a bachelor's degree or higher, 2015-19",36.6
+37000,North Carolina,North Carolina,"Percent of adults with a bachelor's degree or higher, 2015-19",31.3
+38000,North Dakota,North Dakota,"Percent of adults with a bachelor's degree or higher, 2015-19",30.0
+39000,Ohio,Ohio,"Percent of adults with a bachelor's degree or higher, 2015-19",28.3
+40000,Oklahoma,Oklahoma,"Percent of adults with a bachelor's degree or higher, 2015-19",25.5
+41000,Oregon,Oregon,"Percent of adults with a bachelor's degree or higher, 2015-19",33.7
+42000,Pennsylvania,Pennsylvania,"Percent of adults with a bachelor's degree or higher, 2015-19",31.4
+44000,Rhode Island,Rhode Island,"Percent of adults with a bachelor's degree or higher, 2015-19",34.2
+45000,South Carolina,South Carolina,"Percent of adults with a bachelor's degree or higher, 2015-19",28.1
+46000,South Dakota,South Dakota,"Percent of adults with a bachelor's degree or higher, 2015-19",28.8
+47000,Tennessee,Tennessee,"Percent of adults with a bachelor's degree or higher, 2015-19",27.3
+48000,Texas,Texas,"Percent of adults with a bachelor's degree or higher, 2015-19",29.9
+49000,Utah,Utah,"Percent of adults with a bachelor's degree or higher, 2015-19",34.0
+50000,Vermont,Vermont,"Percent of adults with a bachelor's degree or higher, 2015-19",38.0
+51000,Virginia,Virginia,"Percent of adults with a bachelor's degree or higher, 2015-19",38.8
+53000,Washington,Washington,"Percent of adults with a bachelor's degree or higher, 2015-19",36.0
+54000,West Virginia,West Virginia,"Percent of adults with a bachelor's degree or higher, 2015-19",20.6
+55000,Wisconsin,Wisconsin,"Percent of adults with a bachelor's degree or higher, 2015-19",30.1
+56000,Wyoming,Wyoming,"Percent of adults with a bachelor's degree or higher, 2015-19",27.4
+72000,Puerto Rico,Puerto Rico,"Percent of adults with a bachelor's degree or higher, 2015-19",25.9
+01000,Alabama,Alabama,Unemployment_rate_2019,3.0
+02000,Alaska,Alaska,Unemployment_rate_2019,6.1
+04000,Arizona,Arizona,Unemployment_rate_2019,4.7
+05000,Arkansas,Arkansas,Unemployment_rate_2019,3.5
+06000,California,California,Unemployment_rate_2019,4.0
+08000,Colorado,Colorado,Unemployment_rate_2019,2.8
+09000,Connecticut,Connecticut,Unemployment_rate_2019,3.7
+10000,Delaware,Delaware,Unemployment_rate_2019,3.8
+11000,District of Columbia,District of Columbia,Unemployment_rate_2019,5.5
+12000,Florida,Florida,Unemployment_rate_2019,3.1
+13000,Georgia,Georgia,Unemployment_rate_2019,3.4
+15000,Hawaii,Hawaii,Unemployment_rate_2019,2.7
+16000,Idaho,Idaho,Unemployment_rate_2019,2.9
+17000,Illinois,Illinois,Unemployment_rate_2019,4.0
+18000,Indiana,Indiana,Unemployment_rate_2019,3.3
+19000,Iowa,Iowa,Unemployment_rate_2019,2.7
+20000,Kansas,Kansas,Unemployment_rate_2019,3.2
+21000,Kentucky,Kentucky,Unemployment_rate_2019,4.3
+22000,Louisiana,Louisiana,Unemployment_rate_2019,4.8
+23000,Maine,Maine,Unemployment_rate_2019,3.0
+24000,Maryland,Maryland,Unemployment_rate_2019,3.6
+25000,Massachusetts,Massachusetts,Unemployment_rate_2019,2.9
+26000,Michigan,Michigan,Unemployment_rate_2019,4.1
+27000,Minnesota,Minnesota,Unemployment_rate_2019,3.2
+28000,Mississippi,Mississippi,Unemployment_rate_2019,5.4
+29000,Missouri,Missouri,Unemployment_rate_2019,3.3
+30000,Montana,Montana,Unemployment_rate_2019,3.5
+31000,Nebraska,Nebraska,Unemployment_rate_2019,3.0
+32000,Nevada,Nevada,Unemployment_rate_2019,3.9
+33000,New Hampshire,New Hampshire,Unemployment_rate_2019,2.5
+34000,New Jersey,New Jersey,Unemployment_rate_2019,3.6
+35000,New Mexico,New Mexico,Unemployment_rate_2019,4.9
+36000,New York,New York,Unemployment_rate_2019,4.0
+37000,North Carolina,North Carolina,Unemployment_rate_2019,3.9
+38000,North Dakota,North Dakota,Unemployment_rate_2019,2.4
+39000,Ohio,Ohio,Unemployment_rate_2019,4.1
+40000,Oklahoma,Oklahoma,Unemployment_rate_2019,3.3
+41000,Oregon,Oregon,Unemployment_rate_2019,3.7
+42000,Pennsylvania,Pennsylvania,Unemployment_rate_2019,4.4
+44000,Rhode Island,Rhode Island,Unemployment_rate_2019,3.6
+45000,South Carolina,South Carolina,Unemployment_rate_2019,2.8
+46000,South Dakota,South Dakota,Unemployment_rate_2019,3.3
+47000,Tennessee,Tennessee,Unemployment_rate_2019,3.4
+48000,Texas,Texas,Unemployment_rate_2019,3.5
+49000,Utah,Utah,Unemployment_rate_2019,2.6
+50000,Vermont,Vermont,Unemployment_rate_2019,2.4
+51000,Virginia,Virginia,Unemployment_rate_2019,2.8
+53000,Washington,Washington,Unemployment_rate_2019,4.3
+54000,West Virginia,West Virginia,Unemployment_rate_2019,4.9
+55000,Wisconsin,Wisconsin,Unemployment_rate_2019,3.3
+56000,Wyoming,Wyoming,Unemployment_rate_2019,3.6
+72000,Puerto Rico,Puerto Rico,Unemployment_rate_2019,8.3
+01000,Alabama,Alabama,POVALL_2019,747478.0
+02000,Alaska,Alaska,POVALL_2019,73033.0
+04000,Arizona,Arizona,POVALL_2019,963007.0
+05000,Arkansas,Arkansas,POVALL_2019,468575.0
+06000,California,California,POVALL_2019,4560419.0
+08000,Colorado,Colorado,POVALL_2019,531331.0
+09000,Connecticut,Connecticut,POVALL_2019,343101.0
+10000,Delaware,Delaware,POVALL_2019,106227.0
+11000,District of Columbia,District of Columbia,POVALL_2019,94985.0
+12000,Florida,Florida,POVALL_2019,2681832.0
+13000,Georgia,Georgia,POVALL_2019,1397607.0
+15000,Hawaii,Hawaii,POVALL_2019,124650.0
+16000,Idaho,Idaho,POVALL_2019,193741.0
+17000,Illinois,Illinois,POVALL_2019,1415838.0
+18000,Indiana,Indiana,POVALL_2019,773367.0
+19000,Iowa,Iowa,POVALL_2019,337156.0
+20000,Kansas,Kansas,POVALL_2019,319931.0
+21000,Kentucky,Kentucky,POVALL_2019,692875.0
+22000,Louisiana,Louisiana,POVALL_2019,847739.0
+23000,Maine,Maine,POVALL_2019,141566.0
+24000,Maryland,Maryland,POVALL_2019,537717.0
+25000,Massachusetts,Massachusetts,POVALL_2019,631551.0
+26000,Michigan,Michigan,POVALL_2019,1264445.0
+27000,Minnesota,Minnesota,POVALL_2019,491782.0
+28000,Mississippi,Mississippi,POVALL_2019,559764.0
+29000,Missouri,Missouri,POVALL_2019,766238.0
+30000,Montana,Montana,POVALL_2019,130974.0
+31000,Nebraska,Nebraska,POVALL_2019,186402.0
+32000,Nevada,Nevada,POVALL_2019,384900.0
+33000,New Hampshire,New Hampshire,POVALL_2019,98310.0
+34000,New Jersey,New Jersey,POVALL_2019,795676.0
+35000,New Mexico,New Mexico,POVALL_2019,358526.0
+36000,New York,New York,POVALL_2019,2471760.0
+37000,North Carolina,North Carolina,POVALL_2019,1383760.0
+38000,North Dakota,North Dakota,POVALL_2019,77327.0
+39000,Ohio,Ohio,POVALL_2019,1474285.0
+40000,Oklahoma,Oklahoma,POVALL_2019,578631.0
+41000,Oregon,Oregon,POVALL_2019,474302.0
+42000,Pennsylvania,Pennsylvania,POVALL_2019,1481193.0
+44000,Rhode Island,Rhode Island,POVALL_2019,118095.0
+45000,South Carolina,South Carolina,POVALL_2019,695259.0
+46000,South Dakota,South Dakota,POVALL_2019,101371.0
+47000,Tennessee,Tennessee,POVALL_2019,919850.0
+48000,Texas,Texas,POVALL_2019,3870944.0
+49000,Utah,Utah,POVALL_2019,279435.0
+50000,Vermont,Vermont,POVALL_2019,60624.0
+51000,Virginia,Virginia,POVALL_2019,822944.0
+53000,Washington,Washington,POVALL_2019,731216.0
+54000,West Virginia,West Virginia,POVALL_2019,281175.0
+55000,Wisconsin,Wisconsin,POVALL_2019,591404.0
+56000,Wyoming,Wyoming,POVALL_2019,55776.0
+01000,Alabama,Alabama,TOTRATE,629.23
+02000,Alaska,Alaska,TOTRATE,339.09
+04000,Arizona,Arizona,TOTRATE,372.33
+05000,Arkansas,Arkansas,TOTRATE,553.64
+06000,California,California,TOTRATE,450.04
+08000,Colorado,Colorado,TOTRATE,378.25
+09000,Connecticut,Connecticut,TOTRATE,512.26
+10000,Delaware,Delaware,TOTRATE,417.53
+11000,District of Columbia,District of Columbia,TOTRATE,552.32
+12000,Florida,Florida,TOTRATE,391.33
+13000,Georgia,Georgia,TOTRATE,508.31
+15000,Hawaii,Hawaii,TOTRATE,413.13
+16000,Idaho,Idaho,TOTRATE,511.4
+17000,Illinois,Illinois,TOTRATE,552.96
+18000,Indiana,Indiana,TOTRATE,443.28
+19000,Iowa,Iowa,TOTRATE,539.12
+20000,Kansas,Kansas,TOTRATE,506.27
+21000,Kentucky,Kentucky,TOTRATE,515.68
+22000,Louisiana,Louisiana,TOTRATE,605.93
+23000,Maine,Maine,TOTRATE,276.31
+24000,Maryland,Maryland,TOTRATE,418.35
+25000,Massachusetts,Massachusetts,TOTRATE,572.43
+26000,Michigan,Michigan,TOTRATE,421.44
+27000,Minnesota,Minnesota,TOTRATE,563.06
+28000,Mississippi,Mississippi,TOTRATE,587.37
+29000,Missouri,Missouri,TOTRATE,492.72
+30000,Montana,Montana,TOTRATE,381.01
+31000,Nebraska,Nebraska,TOTRATE,556.59
+32000,Nevada,Nevada,TOTRATE,343.62
+33000,New Hampshire,New Hampshire,TOTRATE,351.52
+34000,New Jersey,New Jersey,TOTRATE,547.04
+35000,New Mexico,New Mexico,TOTRATE,500.78
+36000,New York,New York,TOTRATE,512.1
+37000,North Carolina,North Carolina,TOTRATE,475.11
+38000,North Dakota,North Dakota,TOTRATE,671.22
+39000,Ohio,Ohio,TOTRATE,439.62
+40000,Oklahoma,Oklahoma,TOTRATE,593.49
+41000,Oregon,Oregon,TOTRATE,311.87
+42000,Pennsylvania,Pennsylvania,TOTRATE,538.36
+44000,Rhode Island,Rhode Island,TOTRATE,548.11
+45000,South Carolina,South Carolina,TOTRATE,521.78
+46000,South Dakota,South Dakota,TOTRATE,585.66
+47000,Tennessee,Tennessee,TOTRATE,555.04
+48000,Texas,Texas,TOTRATE,556.54
+49000,Utah,Utah,TOTRATE,791.06
+50000,Vermont,Vermont,TOTRATE,336.23
+51000,Virginia,Virginia,TOTRATE,448.27
+53000,Washington,Washington,TOTRATE,346.2
+54000,West Virginia,West Virginia,TOTRATE,355.27
+55000,Wisconsin,Wisconsin,TOTRATE,535.86
+56000,Wyoming,Wyoming,TOTRATE,395.78
+02000,Alaska,Alaska,mean_smoothed_covid_vaccinated_or_accept,0.7529358909662069
+01000,Alabama,Alabama,mean_smoothed_covid_vaccinated_or_accept,0.6680213515964666
+05000,Arkansas,Arkansas,mean_smoothed_covid_vaccinated_or_accept,0.7035105222577136
+04000,Arizona,Arizona,mean_smoothed_covid_vaccinated_or_accept,0.7641441190197694
+06000,California,California,mean_smoothed_covid_vaccinated_or_accept,0.8199655143614948
+08000,Colorado,Colorado,mean_smoothed_covid_vaccinated_or_accept,0.7975290781207222
+09000,Connecticut,Connecticut,mean_smoothed_covid_vaccinated_or_accept,0.8421710007037346
+10000,Delaware,Delaware,mean_smoothed_covid_vaccinated_or_accept,0.7727745131239064
+12000,Florida,Florida,mean_smoothed_covid_vaccinated_or_accept,0.7318583325227377
+13000,Georgia,Georgia,mean_smoothed_covid_vaccinated_or_accept,0.688560433524074
+15000,Hawaii,Hawaii,mean_smoothed_covid_vaccinated_or_accept,0.8194746506216096
+19000,Iowa,Iowa,mean_smoothed_covid_vaccinated_or_accept,0.7477944310982667
+16000,Idaho,Idaho,mean_smoothed_covid_vaccinated_or_accept,0.7023566632181498
+17000,Illinois,Illinois,mean_smoothed_covid_vaccinated_or_accept,0.7806120998570348
+18000,Indiana,Indiana,mean_smoothed_covid_vaccinated_or_accept,0.7162119490145684
+20000,Kansas,Kansas,mean_smoothed_covid_vaccinated_or_accept,0.7483764052050905
+21000,Kentucky,Kentucky,mean_smoothed_covid_vaccinated_or_accept,0.7200568555775072
+22000,Louisiana,Louisiana,mean_smoothed_covid_vaccinated_or_accept,0.6708853674344227
+25000,Massachusetts,Massachusetts,mean_smoothed_covid_vaccinated_or_accept,0.848568940478825
+24000,Maryland,Maryland,mean_smoothed_covid_vaccinated_or_accept,0.8246480566136214
+23000,Maine,Maine,mean_smoothed_covid_vaccinated_or_accept,0.7929451320772936
+26000,Michigan,Michigan,mean_smoothed_covid_vaccinated_or_accept,0.7512117037883058
+27000,Minnesota,Minnesota,mean_smoothed_covid_vaccinated_or_accept,0.8032698266414057
+29000,Missouri,Missouri,mean_smoothed_covid_vaccinated_or_accept,0.7217271045201874
+28000,Mississippi,Mississippi,mean_smoothed_covid_vaccinated_or_accept,0.6609146118194509
+30000,Montana,Montana,mean_smoothed_covid_vaccinated_or_accept,0.725760683267013
+37000,North Carolina,North Carolina,mean_smoothed_covid_vaccinated_or_accept,0.7329270868824123
+38000,North Dakota,North Dakota,mean_smoothed_covid_vaccinated_or_accept,0.7123586367437177
+31000,Nebraska,Nebraska,mean_smoothed_covid_vaccinated_or_accept,0.7673388928239636
+33000,New Hampshire,New Hampshire,mean_smoothed_covid_vaccinated_or_accept,0.8214187111608642
+34000,New Jersey,New Jersey,mean_smoothed_covid_vaccinated_or_accept,0.8102113346178411
+35000,New Mexico,New Mexico,mean_smoothed_covid_vaccinated_or_accept,0.8057342937903899
+32000,Nevada,Nevada,mean_smoothed_covid_vaccinated_or_accept,0.7519192591910947
+36000,New York,New York,mean_smoothed_covid_vaccinated_or_accept,0.7936201803883711
+39000,Ohio,Ohio,mean_smoothed_covid_vaccinated_or_accept,0.7196670359700487
+40000,Oklahoma,Oklahoma,mean_smoothed_covid_vaccinated_or_accept,0.7092446572313718
+41000,Oregon,Oregon,mean_smoothed_covid_vaccinated_or_accept,0.7840395528087516
+42000,Pennsylvania,Pennsylvania,mean_smoothed_covid_vaccinated_or_accept,0.7644849561564543
+44000,Rhode Island,Rhode Island,mean_smoothed_covid_vaccinated_or_accept,0.8317518709180007
+45000,South Carolina,South Carolina,mean_smoothed_covid_vaccinated_or_accept,0.6988077000394164
+46000,South Dakota,South Dakota,mean_smoothed_covid_vaccinated_or_accept,0.7423076215572194
+47000,Tennessee,Tennessee,mean_smoothed_covid_vaccinated_or_accept,0.6940757236210592
+48000,Texas,Texas,mean_smoothed_covid_vaccinated_or_accept,0.749449106825872
+49000,Utah,Utah,mean_smoothed_covid_vaccinated_or_accept,0.7823004073745896
+51000,Virginia,Virginia,mean_smoothed_covid_vaccinated_or_accept,0.7827764027031497
+50000,Vermont,Vermont,mean_smoothed_covid_vaccinated_or_accept,0.8477328749980232
+53000,Washington,Washington,mean_smoothed_covid_vaccinated_or_accept,0.8123855027499475
+55000,Wisconsin,Wisconsin,mean_smoothed_covid_vaccinated_or_accept,0.7606313281633083
+54000,West Virginia,West Virginia,mean_smoothed_covid_vaccinated_or_accept,0.7205319476560351
+56000,Wyoming,Wyoming,mean_smoothed_covid_vaccinated_or_accept,0.6620052855399007
+02000,Alaska,Alaska,stderr_smoothed_covid_vaccinated_or_accept,0.0016514529625931626
+01000,Alabama,Alabama,stderr_smoothed_covid_vaccinated_or_accept,0.0008239989739568694
+05000,Arkansas,Arkansas,stderr_smoothed_covid_vaccinated_or_accept,0.0009614124896903052
+04000,Arizona,Arizona,stderr_smoothed_covid_vaccinated_or_accept,0.0006312648479052231
+06000,California,California,stderr_smoothed_covid_vaccinated_or_accept,0.00027305366431563553
+08000,Colorado,Colorado,stderr_smoothed_covid_vaccinated_or_accept,0.0006331665904918371
+09000,Connecticut,Connecticut,stderr_smoothed_covid_vaccinated_or_accept,0.0006425034207954732
+10000,Delaware,Delaware,stderr_smoothed_covid_vaccinated_or_accept,0.0013309079389385995
+12000,Florida,Florida,stderr_smoothed_covid_vaccinated_or_accept,0.00036855120311408556
+13000,Georgia,Georgia,stderr_smoothed_covid_vaccinated_or_accept,0.0006236272619579626
+15000,Hawaii,Hawaii,stderr_smoothed_covid_vaccinated_or_accept,0.0013142647227912087
+19000,Iowa,Iowa,stderr_smoothed_covid_vaccinated_or_accept,0.000796159679676047
+16000,Idaho,Idaho,stderr_smoothed_covid_vaccinated_or_accept,0.0011614458700141047
+17000,Illinois,Illinois,stderr_smoothed_covid_vaccinated_or_accept,0.00043964131043975995
+18000,Indiana,Indiana,stderr_smoothed_covid_vaccinated_or_accept,0.0006438123142543969
+20000,Kansas,Kansas,stderr_smoothed_covid_vaccinated_or_accept,0.0008874401337571753
+21000,Kentucky,Kentucky,stderr_smoothed_covid_vaccinated_or_accept,0.0007780841645493181
+22000,Louisiana,Louisiana,stderr_smoothed_covid_vaccinated_or_accept,0.0008322518370947946
+25000,Massachusetts,Massachusetts,stderr_smoothed_covid_vaccinated_or_accept,0.0005568309818388116
+24000,Maryland,Maryland,stderr_smoothed_covid_vaccinated_or_accept,0.0006397561220332038
+23000,Maine,Maine,stderr_smoothed_covid_vaccinated_or_accept,0.0010082612712695583
+26000,Michigan,Michigan,stderr_smoothed_covid_vaccinated_or_accept,0.00045157577634477315
+27000,Minnesota,Minnesota,stderr_smoothed_covid_vaccinated_or_accept,0.0006633177551972603
+29000,Missouri,Missouri,stderr_smoothed_covid_vaccinated_or_accept,0.0007029410566931654
+28000,Mississippi,Mississippi,stderr_smoothed_covid_vaccinated_or_accept,0.0010325268516324575
+30000,Montana,Montana,stderr_smoothed_covid_vaccinated_or_accept,0.0013348157947293531
+37000,North Carolina,North Carolina,stderr_smoothed_covid_vaccinated_or_accept,0.0005079295361002582
+38000,North Dakota,North Dakota,stderr_smoothed_covid_vaccinated_or_accept,0.001901348308790984
+31000,Nebraska,Nebraska,stderr_smoothed_covid_vaccinated_or_accept,0.0010832190843516202
+33000,New Hampshire,New Hampshire,stderr_smoothed_covid_vaccinated_or_accept,0.0009992609080410146
+34000,New Jersey,New Jersey,stderr_smoothed_covid_vaccinated_or_accept,0.00055772495379821
+35000,New Mexico,New Mexico,stderr_smoothed_covid_vaccinated_or_accept,0.0008341068514938321
+32000,Nevada,Nevada,stderr_smoothed_covid_vaccinated_or_accept,0.0010431227362117748
+36000,New York,New York,stderr_smoothed_covid_vaccinated_or_accept,0.0003828360111815067
+39000,Ohio,Ohio,stderr_smoothed_covid_vaccinated_or_accept,0.00048013664214302185
+40000,Oklahoma,Oklahoma,stderr_smoothed_covid_vaccinated_or_accept,0.0008006972014243648
+41000,Oregon,Oregon,stderr_smoothed_covid_vaccinated_or_accept,0.0007068067858774774
+42000,Pennsylvania,Pennsylvania,stderr_smoothed_covid_vaccinated_or_accept,0.0004331787357685828
+44000,Rhode Island,Rhode Island,stderr_smoothed_covid_vaccinated_or_accept,0.001254362979322043
+45000,South Carolina,South Carolina,stderr_smoothed_covid_vaccinated_or_accept,0.0006786510516919623
+46000,South Dakota,South Dakota,stderr_smoothed_covid_vaccinated_or_accept,0.0015800531883181212
+47000,Tennessee,Tennessee,stderr_smoothed_covid_vaccinated_or_accept,0.0006709162834247846
+48000,Texas,Texas,stderr_smoothed_covid_vaccinated_or_accept,0.0003475869960042439
+49000,Utah,Utah,stderr_smoothed_covid_vaccinated_or_accept,0.0008893824650051999
+51000,Virginia,Virginia,stderr_smoothed_covid_vaccinated_or_accept,0.0005035830796857855
+50000,Vermont,Vermont,stderr_smoothed_covid_vaccinated_or_accept,0.00133895440610559
+53000,Washington,Washington,stderr_smoothed_covid_vaccinated_or_accept,0.0005150400883151646
+55000,Wisconsin,Wisconsin,stderr_smoothed_covid_vaccinated_or_accept,0.0006417015305398031
+54000,West Virginia,West Virginia,stderr_smoothed_covid_vaccinated_or_accept,0.001033726270583834
+56000,Wyoming,Wyoming,stderr_smoothed_covid_vaccinated_or_accept,0.0020562785156410055
+02000,Alaska,Alaska,num_smoothed_covid_vaccinated_or_accept,51357.75712280498
+01000,Alabama,Alabama,num_smoothed_covid_vaccinated_or_accept,218192.2746276247
+05000,Arkansas,Arkansas,num_smoothed_covid_vaccinated_or_accept,158757.69806562806
+04000,Arizona,Arizona,num_smoothed_covid_vaccinated_or_accept,345601.8481245421
+06000,California,California,num_smoothed_covid_vaccinated_or_accept,1623495.7908267828
+08000,Colorado,Colorado,num_smoothed_covid_vaccinated_or_accept,321233.80661638937
+09000,Connecticut,Connecticut,num_smoothed_covid_vaccinated_or_accept,271168.9561745941
+10000,Delaware,Delaware,num_smoothed_covid_vaccinated_or_accept,76607.89018606601
+12000,Florida,Florida,num_smoothed_covid_vaccinated_or_accept,1057360.3999929067
+13000,Georgia,Georgia,num_smoothed_covid_vaccinated_or_accept,379672.92833762645
+15000,Hawaii,Hawaii,num_smoothed_covid_vaccinated_or_accept,70185.545401789
+19000,Iowa,Iowa,num_smoothed_covid_vaccinated_or_accept,222495.70215821327
+16000,Idaho,Idaho,num_smoothed_covid_vaccinated_or_accept,108847.74031737866
+17000,Illinois,Illinois,num_smoothed_covid_vaccinated_or_accept,691650.2192375368
+18000,Indiana,Indiana,num_smoothed_covid_vaccinated_or_accept,351204.0521682314
+20000,Kansas,Kansas,num_smoothed_covid_vaccinated_or_accept,178943.3317357169
+21000,Kentucky,Kentucky,num_smoothed_covid_vaccinated_or_accept,239746.62035591577
+22000,Louisiana,Louisiana,num_smoothed_covid_vaccinated_or_accept,213863.87551530547
+25000,Massachusetts,Massachusetts,num_smoothed_covid_vaccinated_or_accept,351674.27206436964
+24000,Maryland,Maryland,num_smoothed_covid_vaccinated_or_accept,291352.5073480486
+23000,Maine,Maine,num_smoothed_covid_vaccinated_or_accept,128064.11415040783
+26000,Michigan,Michigan,num_smoothed_covid_vaccinated_or_accept,688484.907072811
+27000,Minnesota,Minnesota,num_smoothed_covid_vaccinated_or_accept,288504.2570929884
+29000,Missouri,Missouri,num_smoothed_covid_vaccinated_or_accept,293346.9444883602
+28000,Mississippi,Mississippi,num_smoothed_covid_vaccinated_or_accept,138931.98470023
+30000,Montana,Montana,num_smoothed_covid_vaccinated_or_accept,81073.0807734412
+37000,North Carolina,North Carolina,num_smoothed_covid_vaccinated_or_accept,556090.7587919176
+38000,North Dakota,North Dakota,num_smoothed_covid_vaccinated_or_accept,40377.85091382878
+31000,Nebraska,Nebraska,num_smoothed_covid_vaccinated_or_accept,116753.81480183356
+33000,New Hampshire,New Hampshire,num_smoothed_covid_vaccinated_or_accept,120673.4869988487
+34000,New Jersey,New Jersey,num_smoothed_covid_vaccinated_or_accept,400522.1357766849
+35000,New Mexico,New Mexico,num_smoothed_covid_vaccinated_or_accept,181275.12953392073
+32000,Nevada,Nevada,num_smoothed_covid_vaccinated_or_accept,128904.2739360627
+36000,New York,New York,num_smoothed_covid_vaccinated_or_accept,886885.6863176543
+39000,Ohio,Ohio,num_smoothed_covid_vaccinated_or_accept,629808.7774154375
+40000,Oklahoma,Oklahoma,num_smoothed_covid_vaccinated_or_accept,228131.43119162138
+41000,Oregon,Oregon,num_smoothed_covid_vaccinated_or_accept,265735.29846125736
+42000,Pennsylvania,Pennsylvania,num_smoothed_covid_vaccinated_or_accept,733538.2689107574
+44000,Rhode Island,Rhode Island,num_smoothed_covid_vaccinated_or_accept,73975.03367512274
+45000,South Carolina,South Carolina,num_smoothed_covid_vaccinated_or_accept,319350.41685064195
+46000,South Dakota,South Dakota,num_smoothed_covid_vaccinated_or_accept,56876.99266012081
+47000,Tennessee,Tennessee,num_smoothed_covid_vaccinated_or_accept,327410.5854808241
+48000,Texas,Texas,num_smoothed_covid_vaccinated_or_accept,1164805.0861340812
+49000,Utah,Utah,num_smoothed_covid_vaccinated_or_accept,168433.66336206286
+51000,Virginia,Virginia,num_smoothed_covid_vaccinated_or_accept,524856.204377557
+50000,Vermont,Vermont,num_smoothed_covid_vaccinated_or_accept,61035.157070354755
+53000,Washington,Washington,num_smoothed_covid_vaccinated_or_accept,466776.56735024904
+55000,Wisconsin,Wisconsin,num_smoothed_covid_vaccinated_or_accept,336318.25744946755
+54000,West Virginia,West Virginia,num_smoothed_covid_vaccinated_or_accept,135778.0171855711
+56000,Wyoming,Wyoming,num_smoothed_covid_vaccinated_or_accept,35033.6333026753
+02000,Alaska,Alaska,sample_size_for_covid_vaccinated_or_accept_question,68210.0
+01000,Alabama,Alabama,sample_size_for_covid_vaccinated_or_accept_question,326624.70160000015
+05000,Arkansas,Arkansas,sample_size_for_covid_vaccinated_or_accept_question,225664.99440000008
+04000,Arizona,Arizona,sample_size_for_covid_vaccinated_or_accept_question,452273.1242999999
+06000,California,California,sample_size_for_covid_vaccinated_or_accept_question,1979956.1840000006
+08000,Colorado,Colorado,sample_size_for_covid_vaccinated_or_accept_question,402786.32519999996
+09000,Connecticut,Connecticut,sample_size_for_covid_vaccinated_or_accept_question,321988.0
+10000,Delaware,Delaware,sample_size_for_covid_vaccinated_or_accept_question,99133.56209999995
+12000,Florida,Florida,sample_size_for_covid_vaccinated_or_accept_question,1444761.0322999994
+13000,Georgia,Georgia,sample_size_for_covid_vaccinated_or_accept_question,551401.0242999999
+15000,Hawaii,Hawaii,sample_size_for_covid_vaccinated_or_accept_question,85647.0
+19000,Iowa,Iowa,sample_size_for_covid_vaccinated_or_accept_question,297535.9174999999
+16000,Idaho,Idaho,sample_size_for_covid_vaccinated_or_accept_question,154975.02339999995
+17000,Illinois,Illinois,sample_size_for_covid_vaccinated_or_accept_question,886035.7395999999
+18000,Indiana,Indiana,sample_size_for_covid_vaccinated_or_accept_question,490363.2963000001
+20000,Kansas,Kansas,sample_size_for_covid_vaccinated_or_accept_question,239108.72989999995
+21000,Kentucky,Kentucky,sample_size_for_covid_vaccinated_or_accept_question,332955.1249999999
+22000,Louisiana,Louisiana,sample_size_for_covid_vaccinated_or_accept_question,318778.5662
+25000,Massachusetts,Massachusetts,sample_size_for_covid_vaccinated_or_accept_question,414432.1755000002
+24000,Maryland,Maryland,sample_size_for_covid_vaccinated_or_accept_question,353305.2737
+23000,Maine,Maine,sample_size_for_covid_vaccinated_or_accept_question,161504.38280000005
+26000,Michigan,Michigan,sample_size_for_covid_vaccinated_or_accept_question,916499.1753999996
+27000,Minnesota,Minnesota,sample_size_for_covid_vaccinated_or_accept_question,359162.32319999987
+29000,Missouri,Missouri,sample_size_for_covid_vaccinated_or_accept_question,406451.33409999986
+28000,Mississippi,Mississippi,sample_size_for_covid_vaccinated_or_accept_question,210211.7009
+30000,Montana,Montana,sample_size_for_covid_vaccinated_or_accept_question,111707.7332
+37000,North Carolina,North Carolina,sample_size_for_covid_vaccinated_or_accept_question,758725.8934
+38000,North Dakota,North Dakota,sample_size_for_covid_vaccinated_or_accept_question,56681.91389999999
+31000,Nebraska,Nebraska,sample_size_for_covid_vaccinated_or_accept_question,152154.17319999996
+33000,New Hampshire,New Hampshire,sample_size_for_covid_vaccinated_or_accept_question,146908.61719999992
+34000,New Jersey,New Jersey,sample_size_for_covid_vaccinated_or_accept_question,494342.79509999993
+35000,New Mexico,New Mexico,sample_size_for_covid_vaccinated_or_accept_question,224981.27599999993
+32000,Nevada,Nevada,sample_size_for_covid_vaccinated_or_accept_question,171433.66439999995
+36000,New York,New York,sample_size_for_covid_vaccinated_or_accept_question,1117519.0704999994
+39000,Ohio,Ohio,sample_size_for_covid_vaccinated_or_accept_question,875139.1212000005
+40000,Oklahoma,Oklahoma,sample_size_for_covid_vaccinated_or_accept_question,321654.0708
+41000,Oregon,Oregon,sample_size_for_covid_vaccinated_or_accept_question,338930.98569999996
+42000,Pennsylvania,Pennsylvania,sample_size_for_covid_vaccinated_or_accept_question,959519.5602000001
+44000,Rhode Island,Rhode Island,sample_size_for_covid_vaccinated_or_accept_question,88938.82450000003
+45000,South Carolina,South Carolina,sample_size_for_covid_vaccinated_or_accept_question,456993.2712999999
+46000,South Dakota,South Dakota,sample_size_for_covid_vaccinated_or_accept_question,76621.86269999998
+47000,Tennessee,Tennessee,sample_size_for_covid_vaccinated_or_accept_question,471721.70749999996
+48000,Texas,Texas,sample_size_for_covid_vaccinated_or_accept_question,1554215.0567999992
+49000,Utah,Utah,sample_size_for_covid_vaccinated_or_accept_question,215305.60609999992
+51000,Virginia,Virginia,sample_size_for_covid_vaccinated_or_accept_question,670505.9101999998
+50000,Vermont,Vermont,sample_size_for_covid_vaccinated_or_accept_question,71998.10089999999
+53000,Washington,Washington,sample_size_for_covid_vaccinated_or_accept_question,574575.2057
+55000,Wisconsin,Wisconsin,sample_size_for_covid_vaccinated_or_accept_question,442156.7256000001
+54000,West Virginia,West Virginia,sample_size_for_covid_vaccinated_or_accept_question,188441.35590000002
+56000,Wyoming,Wyoming,sample_size_for_covid_vaccinated_or_accept_question,52920.473699999995
+01000,Alabama,Alabama,No. accounts,15357.0
+02000,Alaska,Alaska,No. accounts,3740.0
+04000,Arizona,Arizona,No. accounts,36175.0
+05000,Arkansas,Arkansas,No. accounts,9529.0
+06000,California,California,No. accounts,271680.0
+08000,Colorado,Colorado,No. accounts,26445.0
+09000,Connecticut,Connecticut,No. accounts,18575.0
+10000,Delaware,Delaware,No. accounts,2511.0
+12000,Florida,Florida,No. accounts,100712.0
+13000,Georgia,Georgia,No. accounts,52381.0
+15000,Hawaii,Hawaii,No. accounts,5923.0
+16000,Idaho,Idaho,No. accounts,6055.0
+17000,Illinois,Illinois,No. accounts,65623.0
+18000,Indiana,Indiana,No. accounts,21807.0
+19000,Iowa,Iowa,No. accounts,11417.0
+20000,Kansas,Kansas,No. accounts,10303.0
+21000,Kentucky,Kentucky,No. accounts,14816.0
+22000,Louisiana,Louisiana,No. accounts,18219.0
+23000,Maine,Maine,No. accounts,5447.0
+24000,Maryland,Maryland,No. accounts,33438.0
+25000,Massachusetts,Massachusetts,No. accounts,46784.0
+26000,Michigan,Michigan,No. accounts,41057.0
+27000,Minnesota,Minnesota,No. accounts,29328.0
+28000,Mississippi,Mississippi,No. accounts,5651.0
+29000,Missouri,Missouri,No. accounts,21172.0
+30000,Montana,Montana,No. accounts,2633.0
+31000,Nebraska,Nebraska,No. accounts,7535.0
+32000,Nevada,Nevada,No. accounts,18764.0
+33000,New Hampshire,New Hampshire,No. accounts,6196.0
+34000,New Jersey,New Jersey,No. accounts,41163.0
+35000,New Mexico,New Mexico,No. accounts,6578.0
+36000,New York,New York,No. accounts,156865.0
+37000,North Carolina,North Carolina,No. accounts,36414.0
+38000,North Dakota,North Dakota,No. accounts,1653.0
+39000,Ohio,Ohio,No. accounts,54419.0
+40000,Oklahoma,Oklahoma,No. accounts,12733.0
+41000,Oregon,Oregon,No. accounts,27729.0
+42000,Pennsylvania,Pennsylvania,No. accounts,64621.0
+44000,Rhode Island,Rhode Island,No. accounts,4588.0
+45000,South Carolina,South Carolina,No. accounts,16864.0
+46000,South Dakota,South Dakota,No. accounts,2227.0
+47000,Tennessee,Tennessee,No. accounts,29936.0
+48000,Texas,Texas,No. accounts,142840.0
+49000,Utah,Utah,No. accounts,10522.0
+50000,Vermont,Vermont,No. accounts,2410.0
+51000,Virginia,Virginia,No. accounts,38862.0
+53000,Washington,Washington,No. accounts,33595.0
+54000,West Virginia,West Virginia,No. accounts,6631.0
+55000,Wisconsin,Wisconsin,No. accounts,20917.0
+56000,Wyoming,Wyoming,No. accounts,1091.0
+01000,Alabama,Alabama,No. tweets,96614.0
+02000,Alaska,Alaska,No. tweets,26167.0
+04000,Arizona,Arizona,No. tweets,270211.0
+05000,Arkansas,Arkansas,No. tweets,57302.0
+06000,California,California,No. tweets,1792961.0
+08000,Colorado,Colorado,No. tweets,157191.0
+09000,Connecticut,Connecticut,No. tweets,136024.0
+10000,Delaware,Delaware,No. tweets,16847.0
+12000,Florida,Florida,No. tweets,772758.0
+13000,Georgia,Georgia,No. tweets,304786.0
+15000,Hawaii,Hawaii,No. tweets,38784.0
+16000,Idaho,Idaho,No. tweets,47313.0
+17000,Illinois,Illinois,No. tweets,399465.0
+18000,Indiana,Indiana,No. tweets,130958.0
+19000,Iowa,Iowa,No. tweets,68188.0
+20000,Kansas,Kansas,No. tweets,60994.0
+21000,Kentucky,Kentucky,No. tweets,85251.0
+22000,Louisiana,Louisiana,No. tweets,108869.0
+23000,Maine,Maine,No. tweets,37348.0
+24000,Maryland,Maryland,No. tweets,232998.0
+25000,Massachusetts,Massachusetts,No. tweets,330363.0
+26000,Michigan,Michigan,No. tweets,255413.0
+27000,Minnesota,Minnesota,No. tweets,198950.0
+28000,Mississippi,Mississippi,No. tweets,30021.0
+29000,Missouri,Missouri,No. tweets,140851.0
+30000,Montana,Montana,No. tweets,19352.0
+31000,Nebraska,Nebraska,No. tweets,37453.0
+32000,Nevada,Nevada,No. tweets,124465.0
+33000,New Hampshire,New Hampshire,No. tweets,40938.0
+34000,New Jersey,New Jersey,No. tweets,264931.0
+35000,New Mexico,New Mexico,No. tweets,45365.0
+36000,New York,New York,No. tweets,1094425.0
+37000,North Carolina,North Carolina,No. tweets,217255.0
+38000,North Dakota,North Dakota,No. tweets,8899.0
+39000,Ohio,Ohio,No. tweets,326206.0
+40000,Oklahoma,Oklahoma,No. tweets,73024.0
+41000,Oregon,Oregon,No. tweets,194311.0
+42000,Pennsylvania,Pennsylvania,No. tweets,425705.0
+44000,Rhode Island,Rhode Island,No. tweets,33544.0
+45000,South Carolina,South Carolina,No. tweets,111652.0
+46000,South Dakota,South Dakota,No. tweets,14291.0
+47000,Tennessee,Tennessee,No. tweets,179301.0
+48000,Texas,Texas,No. tweets,766606.0
+49000,Utah,Utah,No. tweets,58297.0
+50000,Vermont,Vermont,No. tweets,20765.0
+51000,Virginia,Virginia,No. tweets,253940.0
+53000,Washington,Washington,No. tweets,212050.0
+54000,West Virginia,West Virginia,No. tweets,37998.0
+55000,Wisconsin,Wisconsin,No. tweets,144707.0
+56000,Wyoming,Wyoming,No. tweets,6133.0
+01000,Alabama,Alabama,Mean % low-credibility,0.4493584972506557
+02000,Alaska,Alaska,Mean % low-credibility,0.3681831417503944
+04000,Arizona,Arizona,Mean % low-credibility,0.5883579377417667
+05000,Arkansas,Arkansas,Mean % low-credibility,0.3564982414770843
+06000,California,California,Mean % low-credibility,0.33167733289341306
+08000,Colorado,Colorado,Mean % low-credibility,0.3494396536726953
+09000,Connecticut,Connecticut,Mean % low-credibility,0.27225413041082025
+10000,Delaware,Delaware,Mean % low-credibility,0.29297139380409565
+12000,Florida,Florida,Mean % low-credibility,0.6242177440265785
+13000,Georgia,Georgia,Mean % low-credibility,0.39463037350498
+15000,Hawaii,Hawaii,Mean % low-credibility,0.6139464249654596
+16000,Idaho,Idaho,Mean % low-credibility,0.4799522446574533
+17000,Illinois,Illinois,Mean % low-credibility,0.2051488657400792
+18000,Indiana,Indiana,Mean % low-credibility,0.37490429527260777
+19000,Iowa,Iowa,Mean % low-credibility,0.26798195648243295
+20000,Kansas,Kansas,Mean % low-credibility,0.39770573651194324
+21000,Kentucky,Kentucky,Mean % low-credibility,0.35681422144620384
+22000,Louisiana,Louisiana,Mean % low-credibility,0.44574800813700255
+23000,Maine,Maine,Mean % low-credibility,0.32336618804973094
+24000,Maryland,Maryland,Mean % low-credibility,0.22176252700408844
+25000,Massachusetts,Massachusetts,Mean % low-credibility,0.2202821836370196
+26000,Michigan,Michigan,Mean % low-credibility,0.4503553057528102
+27000,Minnesota,Minnesota,Mean % low-credibility,0.31363882363966344
+28000,Mississippi,Mississippi,Mean % low-credibility,0.4358035608147737
+29000,Missouri,Missouri,Mean % low-credibility,0.33297080654788863
+30000,Montana,Montana,Mean % low-credibility,0.5356223179887476
+31000,Nebraska,Nebraska,Mean % low-credibility,0.2969980715253515
+32000,Nevada,Nevada,Mean % low-credibility,0.5641004886645536
+33000,New Hampshire,New Hampshire,Mean % low-credibility,0.38149593439279045
+34000,New Jersey,New Jersey,Mean % low-credibility,0.34794530552953296
+35000,New Mexico,New Mexico,Mean % low-credibility,0.2793665874905779
+36000,New York,New York,Mean % low-credibility,0.26256776713336544
+37000,North Carolina,North Carolina,Mean % low-credibility,0.3552764061853039
+38000,North Dakota,North Dakota,Mean % low-credibility,0.3066787096885529
+39000,Ohio,Ohio,Mean % low-credibility,0.39725269889095505
+40000,Oklahoma,Oklahoma,Mean % low-credibility,0.3664935406984353
+41000,Oregon,Oregon,Mean % low-credibility,0.38186325553531913
+42000,Pennsylvania,Pennsylvania,Mean % low-credibility,0.3578114200579957
+44000,Rhode Island,Rhode Island,Mean % low-credibility,0.2447218061753934
+45000,South Carolina,South Carolina,Mean % low-credibility,0.5834055688461064
+46000,South Dakota,South Dakota,Mean % low-credibility,0.2561233946161283
+47000,Tennessee,Tennessee,Mean % low-credibility,0.5217723662263574
+48000,Texas,Texas,Mean % low-credibility,0.35074198823044783
+49000,Utah,Utah,Mean % low-credibility,0.23596222884666332
+50000,Vermont,Vermont,Mean % low-credibility,0.33000222027508264
+51000,Virginia,Virginia,Mean % low-credibility,0.3506084252420493
+53000,Washington,Washington,Mean % low-credibility,0.2297084254935257
+54000,West Virginia,West Virginia,Mean % low-credibility,0.3410026148991183
+55000,Wisconsin,Wisconsin,Mean % low-credibility,0.39119831687426576
+56000,Wyoming,Wyoming,Mean % low-credibility,0.7253200155343034
+01000,Alabama,Alabama,Stderr % low-credibility,0.04396117389396427
+02000,Alaska,Alaska,Stderr % low-credibility,0.06891452811474234
+04000,Arizona,Arizona,Stderr % low-credibility,0.030058210215712148
+05000,Arkansas,Arkansas,Stderr % low-credibility,0.04569465975324953
+06000,California,California,Stderr % low-credibility,0.008232368008062518
+08000,Colorado,Colorado,Stderr % low-credibility,0.027700497353564377
+09000,Connecticut,Connecticut,Stderr % low-credibility,0.026234703535852104
+10000,Delaware,Delaware,Stderr % low-credibility,0.08197135305154317
+12000,Florida,Florida,Stderr % low-credibility,0.018520049483129814
+13000,Georgia,Georgia,Stderr % low-credibility,0.0209217907119654
+15000,Hawaii,Hawaii,Stderr % low-credibility,0.07477238858709052
+16000,Idaho,Idaho,Stderr % low-credibility,0.068568441735591
+17000,Illinois,Illinois,Stderr % low-credibility,0.012951344605743768
+18000,Indiana,Indiana,Stderr % low-credibility,0.03175075628073147
+19000,Iowa,Iowa,Stderr % low-credibility,0.03795368912222532
+20000,Kansas,Kansas,Stderr % low-credibility,0.04709552488774981
+21000,Kentucky,Kentucky,Stderr % low-credibility,0.03910018693581865
+22000,Louisiana,Louisiana,Stderr % low-credibility,0.0376575855344392
+23000,Maine,Maine,Stderr % low-credibility,0.05435990459930688
+24000,Maryland,Maryland,Stderr % low-credibility,0.01908077320556475
+25000,Massachusetts,Massachusetts,Stderr % low-credibility,0.016699589060463756
+26000,Michigan,Michigan,Stderr % low-credibility,0.02423239383213439
+27000,Minnesota,Minnesota,Stderr % low-credibility,0.023624610389000784
+28000,Mississippi,Mississippi,Stderr % low-credibility,0.06208558460714134
+29000,Missouri,Missouri,Stderr % low-credibility,0.02993943611415595
+30000,Montana,Montana,Stderr % low-credibility,0.10930867317682803
+31000,Nebraska,Nebraska,Stderr % low-credibility,0.04717244125976867
+32000,Nevada,Nevada,Stderr % low-credibility,0.039974597082895705
+33000,New Hampshire,New Hampshire,Stderr % low-credibility,0.05293520295827973
+34000,New Jersey,New Jersey,Stderr % low-credibility,0.02194427737061285
+35000,New Mexico,New Mexico,Stderr % low-credibility,0.044298830100269755
+36000,New York,New York,Stderr % low-credibility,0.009507909738090552
+37000,North Carolina,North Carolina,Stderr % low-credibility,0.02413187759085428
+38000,North Dakota,North Dakota,Stderr % low-credibility,0.09330388118159051
+39000,Ohio,Ohio,Stderr % low-credibility,0.020387286120460778
+40000,Oklahoma,Oklahoma,Stderr % low-credibility,0.038592510984150334
+41000,Oregon,Oregon,Stderr % low-credibility,0.027908082847364825
+42000,Pennsylvania,Pennsylvania,Stderr % low-credibility,0.017857338226192673
+44000,Rhode Island,Rhode Island,Stderr % low-credibility,0.05723335122974033
+45000,South Carolina,South Carolina,Stderr % low-credibility,0.04439341976862711
+46000,South Dakota,South Dakota,Stderr % low-credibility,0.07486958866225946
+47000,Tennessee,Tennessee,Stderr % low-credibility,0.030407354478426907
+48000,Texas,Texas,Stderr % low-credibility,0.011865874095144962
+49000,Utah,Utah,Stderr % low-credibility,0.033961375080636694
+50000,Vermont,Vermont,Stderr % low-credibility,0.09855574395115568
+51000,Virginia,Virginia,Stderr % low-credibility,0.02314998442587067
+53000,Washington,Washington,Stderr % low-credibility,0.019463310645198687
+54000,West Virginia,West Virginia,Stderr % low-credibility,0.048475554312794975
+55000,Wisconsin,Wisconsin,Stderr % low-credibility,0.032965658216393225
+56000,Wyoming,Wyoming,Stderr % low-credibility,0.1842246649257411
+01000,Alabama,Alabama,Min % low-credibility,0.0
+02000,Alaska,Alaska,Min % low-credibility,0.0
+04000,Arizona,Arizona,Min % low-credibility,0.0
+05000,Arkansas,Arkansas,Min % low-credibility,0.0
+06000,California,California,Min % low-credibility,0.0
+08000,Colorado,Colorado,Min % low-credibility,0.0
+09000,Connecticut,Connecticut,Min % low-credibility,0.0
+10000,Delaware,Delaware,Min % low-credibility,0.0
+12000,Florida,Florida,Min % low-credibility,0.0
+13000,Georgia,Georgia,Min % low-credibility,0.0
+15000,Hawaii,Hawaii,Min % low-credibility,0.0
+16000,Idaho,Idaho,Min % low-credibility,0.0
+17000,Illinois,Illinois,Min % low-credibility,0.0
+18000,Indiana,Indiana,Min % low-credibility,0.0
+19000,Iowa,Iowa,Min % low-credibility,0.0
+20000,Kansas,Kansas,Min % low-credibility,0.0
+21000,Kentucky,Kentucky,Min % low-credibility,0.0
+22000,Louisiana,Louisiana,Min % low-credibility,0.0
+23000,Maine,Maine,Min % low-credibility,0.0
+24000,Maryland,Maryland,Min % low-credibility,0.0
+25000,Massachusetts,Massachusetts,Min % low-credibility,0.0
+26000,Michigan,Michigan,Min % low-credibility,0.0
+27000,Minnesota,Minnesota,Min % low-credibility,0.0
+28000,Mississippi,Mississippi,Min % low-credibility,0.0
+29000,Missouri,Missouri,Min % low-credibility,0.0
+30000,Montana,Montana,Min % low-credibility,0.0
+31000,Nebraska,Nebraska,Min % low-credibility,0.0
+32000,Nevada,Nevada,Min % low-credibility,0.0
+33000,New Hampshire,New Hampshire,Min % low-credibility,0.0
+34000,New Jersey,New Jersey,Min % low-credibility,0.0
+35000,New Mexico,New Mexico,Min % low-credibility,0.0
+36000,New York,New York,Min % low-credibility,0.0
+37000,North Carolina,North Carolina,Min % low-credibility,0.0
+38000,North Dakota,North Dakota,Min % low-credibility,0.0
+39000,Ohio,Ohio,Min % low-credibility,0.0
+40000,Oklahoma,Oklahoma,Min % low-credibility,0.0
+41000,Oregon,Oregon,Min % low-credibility,0.0
+42000,Pennsylvania,Pennsylvania,Min % low-credibility,0.0
+44000,Rhode Island,Rhode Island,Min % low-credibility,0.0
+45000,South Carolina,South Carolina,Min % low-credibility,0.0
+46000,South Dakota,South Dakota,Min % low-credibility,0.0
+47000,Tennessee,Tennessee,Min % low-credibility,0.0
+48000,Texas,Texas,Min % low-credibility,0.0
+49000,Utah,Utah,Min % low-credibility,0.0
+50000,Vermont,Vermont,Min % low-credibility,0.0
+51000,Virginia,Virginia,Min % low-credibility,0.0
+53000,Washington,Washington,Min % low-credibility,0.0
+54000,West Virginia,West Virginia,Min % low-credibility,0.0
+55000,Wisconsin,Wisconsin,Min % low-credibility,0.0
+56000,Wyoming,Wyoming,Min % low-credibility,0.0
+01000,Alabama,Alabama,Max % low-credibility,100.0
+02000,Alaska,Alaska,Max % low-credibility,100.0
+04000,Arizona,Arizona,Max % low-credibility,100.0
+05000,Arkansas,Arkansas,Max % low-credibility,100.0
+06000,California,California,Max % low-credibility,100.0
+08000,Colorado,Colorado,Max % low-credibility,100.0
+09000,Connecticut,Connecticut,Max % low-credibility,100.0
+10000,Delaware,Delaware,Max % low-credibility,100.0
+12000,Florida,Florida,Max % low-credibility,100.0
+13000,Georgia,Georgia,Max % low-credibility,100.0
+15000,Hawaii,Hawaii,Max % low-credibility,100.0
+16000,Idaho,Idaho,Max % low-credibility,100.0
+17000,Illinois,Illinois,Max % low-credibility,100.0
+18000,Indiana,Indiana,Max % low-credibility,100.0
+19000,Iowa,Iowa,Max % low-credibility,100.0
+20000,Kansas,Kansas,Max % low-credibility,100.0
+21000,Kentucky,Kentucky,Max % low-credibility,100.0
+22000,Louisiana,Louisiana,Max % low-credibility,100.0
+23000,Maine,Maine,Max % low-credibility,100.0
+24000,Maryland,Maryland,Max % low-credibility,100.0
+25000,Massachusetts,Massachusetts,Max % low-credibility,100.0
+26000,Michigan,Michigan,Max % low-credibility,100.0
+27000,Minnesota,Minnesota,Max % low-credibility,100.0
+28000,Mississippi,Mississippi,Max % low-credibility,100.0
+29000,Missouri,Missouri,Max % low-credibility,100.0
+30000,Montana,Montana,Max % low-credibility,100.0
+31000,Nebraska,Nebraska,Max % low-credibility,100.0
+32000,Nevada,Nevada,Max % low-credibility,100.0
+33000,New Hampshire,New Hampshire,Max % low-credibility,100.0
+34000,New Jersey,New Jersey,Max % low-credibility,100.0
+35000,New Mexico,New Mexico,Max % low-credibility,100.0
+36000,New York,New York,Max % low-credibility,100.0
+37000,North Carolina,North Carolina,Max % low-credibility,100.0
+38000,North Dakota,North Dakota,Max % low-credibility,100.0
+39000,Ohio,Ohio,Max % low-credibility,100.0
+40000,Oklahoma,Oklahoma,Max % low-credibility,100.0
+41000,Oregon,Oregon,Max % low-credibility,100.0
+42000,Pennsylvania,Pennsylvania,Max % low-credibility,100.0
+44000,Rhode Island,Rhode Island,Max % low-credibility,100.0
+45000,South Carolina,South Carolina,Max % low-credibility,100.0
+46000,South Dakota,South Dakota,Max % low-credibility,100.0
+47000,Tennessee,Tennessee,Max % low-credibility,100.0
+48000,Texas,Texas,Max % low-credibility,100.0
+49000,Utah,Utah,Max % low-credibility,100.0
+50000,Vermont,Vermont,Max % low-credibility,100.0
+51000,Virginia,Virginia,Max % low-credibility,100.0
+53000,Washington,Washington,Max % low-credibility,100.0
+54000,West Virginia,West Virginia,Max % low-credibility,100.0
+55000,Wisconsin,Wisconsin,Max % low-credibility,100.0
+56000,Wyoming,Wyoming,Max % low-credibility,100.0
+02000,Alaska,Alaska,recent_cases_cum,13150.0
+02000,Alaska,Alaska,recent_deaths_cum,92.0
+01000,Alabama,Alabama,recent_cases_cum,141227.0
+01000,Alabama,Alabama,recent_deaths_cum,5639.0
+05000,Arkansas,Arkansas,recent_cases_cum,96040.0
+05000,Arkansas,Arkansas,recent_deaths_cum,1876.0
+04000,Arizona,Arizona,recent_cases_cum,281632.0
+04000,Arizona,Arizona,recent_deaths_cum,7782.0
+06000,California,California,recent_cases_cum,1173201.0
+06000,California,California,recent_deaths_cum,30798.0
+08000,Colorado,Colorado,recent_cases_cum,113653.0
+08000,Colorado,Colorado,recent_deaths_cum,1162.0
+09000,Connecticut,Connecticut,recent_cases_cum,113390.0
+09000,Connecticut,Connecticut,recent_deaths_cum,1767.0
+11000,District of Columbia,District of Columbia,recent_cases_cum,13905.0
+11000,District of Columbia,District of Columbia,recent_deaths_cum,259.0
+10000,Delaware,Delaware,recent_cases_cum,33554.0
+10000,Delaware,Delaware,recent_deaths_cum,606.0
+12000,Florida,Florida,recent_cases_cum,662013.0
+12000,Florida,Florida,recent_deaths_cum,11000.0
+13000,Georgia,Georgia,recent_cases_cum,259855.0
+13000,Georgia,Georgia,recent_deaths_cum,6459.0
+15000,Hawaii,Hawaii,recent_cases_cum,10120.0
+15000,Hawaii,Hawaii,recent_deaths_cum,189.0
+19000,Iowa,Iowa,recent_cases_cum,63440.0
+19000,Iowa,Iowa,recent_deaths_cum,1746.0
+16000,Idaho,Idaho,recent_cases_cum,36381.0
+16000,Idaho,Idaho,recent_deaths_cum,508.0
+17000,Illinois,Illinois,recent_cases_cum,250112.0
+17000,Illinois,Illinois,recent_deaths_cum,4424.0
+18000,Indiana,Indiana,recent_cases_cum,155221.0
+18000,Indiana,Indiana,recent_deaths_cum,4510.0
+20000,Kansas,Kansas,recent_cases_cum,71211.0
+20000,Kansas,Kansas,recent_deaths_cum,2035.0
+21000,Kentucky,Kentucky,recent_cases_cum,146725.0
+21000,Kentucky,Kentucky,recent_deaths_cum,3252.0
+22000,Louisiana,Louisiana,recent_cases_cum,121643.0
+22000,Louisiana,Louisiana,recent_deaths_cum,2538.0
+25000,Massachusetts,Massachusetts,recent_cases_cum,233331.0
+25000,Massachusetts,Massachusetts,recent_deaths_cum,4400.0
+24000,Maryland,Maryland,recent_cases_cum,118669.0
+24000,Maryland,Maryland,recent_deaths_cum,2159.0
+23000,Maine,Maine,recent_cases_cum,23253.0
+23000,Maine,Maine,recent_deaths_cum,292.0
+26000,Michigan,Michigan,recent_cases_cum,174273.0
+26000,Michigan,Michigan,recent_deaths_cum,3702.0
+27000,Minnesota,Minnesota,recent_cases_cum,89856.0
+27000,Minnesota,Minnesota,recent_deaths_cum,1385.0
+29000,Missouri,Missouri,recent_cases_cum,85604.0
+29000,Missouri,Missouri,recent_deaths_cum,2890.0
+28000,Mississippi,Mississippi,recent_cases_cum,81887.0
+28000,Mississippi,Mississippi,recent_deaths_cum,2117.0
+30000,Montana,Montana,recent_cases_cum,21479.0
+30000,Montana,Montana,recent_deaths_cum,462.0
+37000,North Carolina,North Carolina,recent_cases_cum,338467.0
+37000,North Carolina,North Carolina,recent_deaths_cum,5083.0
+38000,North Dakota,North Dakota,recent_cases_cum,9162.0
+38000,North Dakota,North Dakota,recent_deaths_cum,157.0
+31000,Nebraska,Nebraska,recent_cases_cum,37839.0
+31000,Nebraska,Nebraska,recent_deaths_cum,513.0
+33000,New Hampshire,New Hampshire,recent_cases_cum,35589.0
+33000,New Hampshire,New Hampshire,recent_deaths_cum,449.0
+34000,New Jersey,New Jersey,recent_cases_cum,339840.0
+34000,New Jersey,New Jersey,recent_deaths_cum,5122.0
+35000,New Mexico,New Mexico,recent_cases_cum,44099.0
+35000,New Mexico,New Mexico,recent_deaths_cum,1365.0
+32000,Nevada,Nevada,recent_cases_cum,69504.0
+32000,Nevada,Nevada,recent_deaths_cum,1970.0
+36000,New York,New York,recent_cases_cum,792615.0
+36000,New York,New York,recent_deaths_cum,11425.0
+39000,Ohio,Ohio,recent_cases_cum,284696.0
+39000,Ohio,Ohio,recent_deaths_cum,9741.0
+40000,Oklahoma,Oklahoma,recent_cases_cum,131385.0
+40000,Oklahoma,Oklahoma,recent_deaths_cum,2303.0
+41000,Oregon,Oregon,recent_cases_cum,48897.0
+41000,Oregon,Oregon,recent_deaths_cum,893.0
+42000,Pennsylvania,Pennsylvania,recent_cases_cum,338448.0
+42000,Pennsylvania,Pennsylvania,recent_deaths_cum,8627.0
+44000,Rhode Island,Rhode Island,recent_cases_cum,46035.0
+44000,Rhode Island,Rhode Island,recent_deaths_cum,882.0
+45000,South Carolina,South Carolina,recent_cases_cum,223588.0
+45000,South Carolina,South Carolina,recent_deaths_cum,3618.0
+46000,South Dakota,South Dakota,recent_cases_cum,16109.0
+46000,South Dakota,South Dakota,recent_deaths_cum,414.0
+47000,Tennessee,Tennessee,recent_cases_cum,197720.0
+47000,Tennessee,Tennessee,recent_deaths_cum,4777.0
+48000,Texas,Texas,recent_cases_cum,965946.0
+48000,Texas,Texas,recent_deaths_cum,18947.0
+49000,Utah,Utah,recent_cases_cum,99367.0
+49000,Utah,Utah,recent_deaths_cum,792.0
+51000,Virginia,Virginia,recent_cases_cum,246894.0
+51000,Virginia,Virginia,recent_deaths_cum,5129.0
+50000,Vermont,Vermont,recent_cases_cum,10424.0
+50000,Vermont,Vermont,recent_deaths_cum,83.0
+53000,Washington,Washington,recent_cases_cum,103358.0
+53000,Washington,Washington,recent_deaths_cum,1771.0
+55000,Wisconsin,Wisconsin,recent_cases_cum,105882.0
+55000,Wisconsin,Wisconsin,recent_deaths_cum,1755.0
+54000,West Virginia,West Virginia,recent_cases_cum,47876.0
+54000,West Virginia,West Virginia,recent_deaths_cum,1254.0
+56000,Wyoming,Wyoming,recent_cases_cum,11047.0
+56000,Wyoming,Wyoming,recent_deaths_cum,258.0
+02000,Alaska,Alaska,total_cases_cum,59448.0
+01000,Alabama,Alabama,total_cases_cum,513161.0
+05000,Arkansas,Arkansas,total_cases_cum,329515.0
+04000,Arizona,Arizona,total_cases_cum,838016.0
+06000,California,California,total_cases_cum,3563340.0
+08000,Colorado,Colorado,total_cases_cum,454898.0
+09000,Connecticut,Connecticut,total_cases_cum,303510.0
+11000,District of Columbia,District of Columbia,total_cases_cum,43669.0
+10000,Delaware,Delaware,total_cases_cum,93038.0
+12000,Florida,Florida,total_cases_cum,2027448.0
+13000,Georgia,Georgia,total_cases_cum,846931.0
+15000,Hawaii,Hawaii,total_cases_cum,29071.0
+19000,Iowa,Iowa,total_cases_cum,347703.0
+16000,Idaho,Idaho,total_cases_cum,178888.0
+17000,Illinois,Illinois,total_cases_cum,1229901.0
+18000,Indiana,Indiana,total_cases_cum,684552.0
+20000,Kansas,Kansas,total_cases_cum,301395.0
+21000,Kentucky,Kentucky,total_cases_cum,423549.0
+22000,Louisiana,Louisiana,total_cases_cum,442678.0
+25000,Massachusetts,Massachusetts,total_cases_cum,586496.0
+24000,Maryland,Maryland,total_cases_cum,403988.0
+23000,Maine,Maine,total_cases_cum,49190.0
+26000,Michigan,Michigan,total_cases_cum,712394.0
+27000,Minnesota,Minnesota,total_cases_cum,510400.0
+29000,Missouri,Missouri,total_cases_cum,487365.0
+28000,Mississippi,Mississippi,total_cases_cum,303948.0
+30000,Montana,Montana,total_cases_cum,103843.0
+37000,North Carolina,North Carolina,total_cases_cum,903391.0
+38000,North Dakota,North Dakota,total_cases_cum,102201.0
+31000,Nebraska,Nebraska,total_cases_cum,205574.0
+33000,New Hampshire,New Hampshire,total_cases_cum,82039.0
+34000,New Jersey,New Jersey,total_cases_cum,881882.0
+35000,New Mexico,New Mexico,total_cases_cum,190492.0
+32000,Nevada,Nevada,total_cases_cum,296763.0
+36000,New York,New York,total_cases_cum,1809837.0
+39000,Ohio,Ohio,total_cases_cum,1006176.0
+40000,Oklahoma,Oklahoma,total_cases_cum,435457.0
+41000,Oregon,Oregon,total_cases_cum,162806.0
+42000,Pennsylvania,Pennsylvania,total_cases_cum,1000243.0
+44000,Rhode Island,Rhode Island,total_cases_cum,127986.0
+45000,South Carolina,South Carolina,total_cases_cum,545257.0
+46000,South Dakota,South Dakota,total_cases_cum,116641.0
+47000,Tennessee,Tennessee,total_cases_cum,806012.0
+48000,Texas,Texas,total_cases_cum,2761413.0
+49000,Utah,Utah,total_cases_cum,383260.0
+51000,Virginia,Virginia,total_cases_cum,610637.0
+50000,Vermont,Vermont,total_cases_cum,18215.0
+53000,Washington,Washington,total_cases_cum,358606.0
+55000,Wisconsin,Wisconsin,total_cases_cum,632126.0
+54000,West Virginia,West Virginia,total_cases_cum,138818.0
+56000,Wyoming,Wyoming,total_cases_cum,55922.0
+02000,Alaska,Alaska,total_deaths_cum,298.0
+01000,Alabama,Alabama,total_deaths_cum,10511.0
+05000,Arkansas,Arkansas,total_deaths_cum,5625.0
+04000,Arizona,Arizona,total_deaths_cum,16843.0
+06000,California,California,total_deaths_cum,57336.0
+08000,Colorado,Colorado,total_deaths_cum,6096.0
+09000,Connecticut,Connecticut,total_deaths_cum,7865.0
+11000,District of Columbia,District of Columbia,total_deaths_cum,1053.0
+10000,Delaware,Delaware,total_deaths_cum,1536.0
+12000,Florida,Florida,total_deaths_cum,32976.0
+13000,Georgia,Georgia,total_deaths_cum,16352.0
+15000,Hawaii,Hawaii,total_deaths_cum,458.0
+19000,Iowa,Iowa,total_deaths_cum,5690.0
+16000,Idaho,Idaho,total_deaths_cum,1956.0
+17000,Illinois,Illinois,total_deaths_cum,21174.0
+18000,Indiana,Indiana,total_deaths_cum,12985.0
+20000,Kansas,Kansas,total_deaths_cum,4913.0
+21000,Kentucky,Kentucky,total_deaths_cum,5970.0
+22000,Louisiana,Louisiana,total_deaths_cum,10074.0
+25000,Massachusetts,Massachusetts,total_deaths_cum,17010.0
+24000,Maryland,Maryland,total_deaths_cum,8170.0
+23000,Maine,Maine,total_deaths_cum,731.0
+26000,Michigan,Michigan,total_deaths_cum,17006.0
+27000,Minnesota,Minnesota,total_deaths_cum,6814.0
+29000,Missouri,Missouri,total_deaths_cum,8450.0
+28000,Mississippi,Mississippi,total_deaths_cum,6989.0
+30000,Montana,Montana,total_deaths_cum,1436.0
+37000,North Carolina,North Carolina,total_deaths_cum,11992.0
+38000,North Dakota,North Dakota,total_deaths_cum,1467.0
+31000,Nebraska,Nebraska,total_deaths_cum,2173.0
+33000,New Hampshire,New Hampshire,total_deaths_cum,1229.0
+34000,New Jersey,New Jersey,total_deaths_cum,24330.0
+35000,New Mexico,New Mexico,total_deaths_cum,3916.0
+32000,Nevada,Nevada,total_deaths_cum,5103.0
+36000,New York,New York,total_deaths_cum,49580.0
+39000,Ohio,Ohio,total_deaths_cum,18817.0
+40000,Oklahoma,Oklahoma,total_deaths_cum,4850.0
+41000,Oregon,Oregon,total_deaths_cum,2370.0
+42000,Pennsylvania,Pennsylvania,total_deaths_cum,24922.0
+44000,Rhode Island,Rhode Island,total_deaths_cum,2594.0
+45000,South Carolina,South Carolina,total_deaths_cum,9085.0
+46000,South Dakota,South Dakota,total_deaths_cum,1927.0
+47000,Tennessee,Tennessee,total_deaths_cum,11802.0
+48000,Texas,Texas,total_deaths_cum,46848.0
+49000,Utah,Utah,total_deaths_cum,2095.0
+51000,Virginia,Virginia,total_deaths_cum,10250.0
+50000,Vermont,Vermont,total_deaths_cum,223.0
+53000,Washington,Washington,total_deaths_cum,5214.0
+55000,Wisconsin,Wisconsin,total_deaths_cum,6630.0
+54000,West Virginia,West Virginia,total_deaths_cum,2630.0
+56000,Wyoming,Wyoming,total_deaths_cum,696.0
+01000,Alabama,Alabama,daily_vaccinations_per_million,5110.833333333333
+02000,Alaska,Alaska,daily_vaccinations_per_million,7281.0
+04000,Arizona,Arizona,daily_vaccinations_per_million,6491.5
+05000,Arkansas,Arkansas,daily_vaccinations_per_million,5339.0
+06000,California,California,daily_vaccinations_per_million,9407.333333333334
+08000,Colorado,Colorado,daily_vaccinations_per_million,8294.5
+09000,Connecticut,Connecticut,daily_vaccinations_per_million,8299.833333333334
+10000,Delaware,Delaware,daily_vaccinations_per_million,8068.166666666667
+12000,Florida,Florida,daily_vaccinations_per_million,6996.5
+13000,Georgia,Georgia,daily_vaccinations_per_million,6072.5
+15000,Hawaii,Hawaii,daily_vaccinations_per_million,7963.833333333333
+16000,Idaho,Idaho,daily_vaccinations_per_million,7159.5
+17000,Illinois,Illinois,daily_vaccinations_per_million,8133.833333333333
+18000,Indiana,Indiana,daily_vaccinations_per_million,5741.166666666667
+19000,Iowa,Iowa,daily_vaccinations_per_million,8150.5
+20000,Kansas,Kansas,daily_vaccinations_per_million,8469.833333333334
+21000,Kentucky,Kentucky,daily_vaccinations_per_million,8213.833333333334
+22000,Louisiana,Louisiana,daily_vaccinations_per_million,6064.5
+23000,Maine,Maine,daily_vaccinations_per_million,7524.833333333333
+24000,Maryland,Maryland,daily_vaccinations_per_million,7519.333333333333
+25000,Massachusetts,Massachusetts,daily_vaccinations_per_million,8357.0
+26000,Michigan,Michigan,daily_vaccinations_per_million,7553.833333333333
+27000,Minnesota,Minnesota,daily_vaccinations_per_million,7454.166666666667
+28000,Mississippi,Mississippi,daily_vaccinations_per_million,4794.0
+29000,Missouri,Missouri,daily_vaccinations_per_million,6298.166666666667
+30000,Montana,Montana,daily_vaccinations_per_million,6521.5
+31000,Nebraska,Nebraska,daily_vaccinations_per_million,7709.166666666667
+32000,Nevada,Nevada,daily_vaccinations_per_million,7129.5
+33000,New Hampshire,New Hampshire,daily_vaccinations_per_million,7454.166666666667
+34000,New Jersey,New Jersey,daily_vaccinations_per_million,8162.833333333333
+35000,New Mexico,New Mexico,daily_vaccinations_per_million,9426.666666666666
+36000,New York,New York,daily_vaccinations_per_million,7725.0
+37000,North Carolina,North Carolina,daily_vaccinations_per_million,7708.333333333333
+38000,North Dakota,North Dakota,daily_vaccinations_per_million,7524.666666666667
+39000,Ohio,Ohio,daily_vaccinations_per_million,7733.666666666667
+40000,Oklahoma,Oklahoma,daily_vaccinations_per_million,6850.5
+41000,Oregon,Oregon,daily_vaccinations_per_million,6774.0
+42000,Pennsylvania,Pennsylvania,daily_vaccinations_per_million,7291.666666666667
+44000,Rhode Island,Rhode Island,daily_vaccinations_per_million,10526.0
+45000,South Carolina,South Carolina,daily_vaccinations_per_million,5917.333333333333
+46000,South Dakota,South Dakota,daily_vaccinations_per_million,8341.166666666666
+47000,Tennessee,Tennessee,daily_vaccinations_per_million,5891.333333333333
+48000,Texas,Texas,daily_vaccinations_per_million,5708.166666666667
+49000,Utah,Utah,daily_vaccinations_per_million,5409.5
+50000,Vermont,Vermont,daily_vaccinations_per_million,9006.333333333334
+51000,Virginia,Virginia,daily_vaccinations_per_million,6965.666666666667
+53000,Washington,Washington,daily_vaccinations_per_million,7518.833333333333
+54000,West Virginia,West Virginia,daily_vaccinations_per_million,6351.333333333333
+55000,Wisconsin,Wisconsin,daily_vaccinations_per_million,8208.166666666666
+56000,Wyoming,Wyoming,daily_vaccinations_per_million,4007.0
+01000,Alabama,Alabama,people_vaccinated_per_hundred,19.896666666666665
+02000,Alaska,Alaska,people_vaccinated_per_hundred,31.011666666666667
+04000,Arizona,Arizona,people_vaccinated_per_hundred,24.848333333333333
+05000,Arkansas,Arkansas,people_vaccinated_per_hundred,22.159999999999997
+06000,California,California,people_vaccinated_per_hundred,25.126666666666665
+08000,Colorado,Colorado,people_vaccinated_per_hundred,24.506666666666664
+09000,Connecticut,Connecticut,people_vaccinated_per_hundred,29.86
+10000,Delaware,Delaware,people_vaccinated_per_hundred,25.31833333333333
+12000,Florida,Florida,people_vaccinated_per_hundred,23.54833333333333
+13000,Georgia,Georgia,people_vaccinated_per_hundred,18.738333333333333
+15000,Hawaii,Hawaii,people_vaccinated_per_hundred,27.385000000000005
+16000,Idaho,Idaho,people_vaccinated_per_hundred,22.018333333333334
+17000,Illinois,Illinois,people_vaccinated_per_hundred,25.625
+18000,Indiana,Indiana,people_vaccinated_per_hundred,21.843333333333334
+19000,Iowa,Iowa,people_vaccinated_per_hundred,26.414999999999996
+20000,Kansas,Kansas,people_vaccinated_per_hundred,25.113333333333333
+21000,Kentucky,Kentucky,people_vaccinated_per_hundred,26.838333333333335
+22000,Louisiana,Louisiana,people_vaccinated_per_hundred,22.73833333333333
+23000,Maine,Maine,people_vaccinated_per_hundred,28.805000000000003
+24000,Maryland,Maryland,people_vaccinated_per_hundred,25.621666666666666
+25000,Massachusetts,Massachusetts,people_vaccinated_per_hundred,28.763333333333335
+26000,Michigan,Michigan,people_vaccinated_per_hundred,24.073333333333334
+27000,Minnesota,Minnesota,people_vaccinated_per_hundred,26.765000000000004
+28000,Mississippi,Mississippi,people_vaccinated_per_hundred,21.796666666666667
+29000,Missouri,Missouri,people_vaccinated_per_hundred,22.30333333333333
+30000,Montana,Montana,people_vaccinated_per_hundred,26.298333333333332
+31000,Nebraska,Nebraska,people_vaccinated_per_hundred,26.05
+32000,Nevada,Nevada,people_vaccinated_per_hundred,23.674999999999997
+33000,New Hampshire,New Hampshire,people_vaccinated_per_hundred,27.71666666666667
+34000,New Jersey,New Jersey,people_vaccinated_per_hundred,27.976666666666663
+35000,New Mexico,New Mexico,people_vaccinated_per_hundred,32.87
+36000,New York,New York,people_vaccinated_per_hundred,25.786666666666665
+37000,North Carolina,North Carolina,people_vaccinated_per_hundred,24.88666666666667
+38000,North Dakota,North Dakota,people_vaccinated_per_hundred,28.606666666666666
+39000,Ohio,Ohio,people_vaccinated_per_hundred,24.126666666666665
+40000,Oklahoma,Oklahoma,people_vaccinated_per_hundred,27.051666666666666
+41000,Oregon,Oregon,people_vaccinated_per_hundred,23.83666666666667
+42000,Pennsylvania,Pennsylvania,people_vaccinated_per_hundred,25.555000000000003
+44000,Rhode Island,Rhode Island,people_vaccinated_per_hundred,28.983333333333334
+45000,South Carolina,South Carolina,people_vaccinated_per_hundred,22.889999999999997
+46000,South Dakota,South Dakota,people_vaccinated_per_hundred,30.113333333333333
+47000,Tennessee,Tennessee,people_vaccinated_per_hundred,20.983333333333334
+48000,Texas,Texas,people_vaccinated_per_hundred,21.773333333333337
+49000,Utah,Utah,people_vaccinated_per_hundred,21.44
+50000,Vermont,Vermont,people_vaccinated_per_hundred,28.474999999999998
+51000,Virginia,Virginia,people_vaccinated_per_hundred,25.536666666666665
+53000,Washington,Washington,people_vaccinated_per_hundred,25.279999999999998
+54000,West Virginia,West Virginia,people_vaccinated_per_hundred,26.266666666666662
+55000,Wisconsin,Wisconsin,people_vaccinated_per_hundred,26.429999999999996
+56000,Wyoming,Wyoming,people_vaccinated_per_hundred,23.68166666666667
+01000,Alabama,Alabama,people_fully_vaccinated_per_hundred,11.604999999999999
+02000,Alaska,Alaska,people_fully_vaccinated_per_hundred,19.873333333333335
+04000,Arizona,Arizona,people_fully_vaccinated_per_hundred,14.193333333333335
+05000,Arkansas,Arkansas,people_fully_vaccinated_per_hundred,11.418333333333335
+06000,California,California,people_fully_vaccinated_per_hundred,12.681666666666667
+08000,Colorado,Colorado,people_fully_vaccinated_per_hundred,14.921666666666667
+09000,Connecticut,Connecticut,people_fully_vaccinated_per_hundred,16.613333333333333
+10000,Delaware,Delaware,people_fully_vaccinated_per_hundred,13.531666666666666
+12000,Florida,Florida,people_fully_vaccinated_per_hundred,13.206666666666669
+13000,Georgia,Georgia,people_fully_vaccinated_per_hundred,10.851666666666667
+15000,Hawaii,Hawaii,people_fully_vaccinated_per_hundred,16.360000000000003
+16000,Idaho,Idaho,people_fully_vaccinated_per_hundred,13.776666666666669
+17000,Illinois,Illinois,people_fully_vaccinated_per_hundred,13.969999999999999
+18000,Indiana,Indiana,people_fully_vaccinated_per_hundred,14.215000000000002
+19000,Iowa,Iowa,people_fully_vaccinated_per_hundred,15.888333333333335
+20000,Kansas,Kansas,people_fully_vaccinated_per_hundred,13.303333333333333
+21000,Kentucky,Kentucky,people_fully_vaccinated_per_hundred,13.876666666666665
+22000,Louisiana,Louisiana,people_fully_vaccinated_per_hundred,13.328333333333333
+23000,Maine,Maine,people_fully_vaccinated_per_hundred,15.861666666666666
+24000,Maryland,Maryland,people_fully_vaccinated_per_hundred,13.963333333333331
+25000,Massachusetts,Massachusetts,people_fully_vaccinated_per_hundred,15.295
+26000,Michigan,Michigan,people_fully_vaccinated_per_hundred,13.681666666666667
+27000,Minnesota,Minnesota,people_fully_vaccinated_per_hundred,15.136666666666665
+28000,Mississippi,Mississippi,people_fully_vaccinated_per_hundred,12.248333333333333
+29000,Missouri,Missouri,people_fully_vaccinated_per_hundred,12.033333333333333
+30000,Montana,Montana,people_fully_vaccinated_per_hundred,15.706666666666669
+31000,Nebraska,Nebraska,people_fully_vaccinated_per_hundred,15.15
+32000,Nevada,Nevada,people_fully_vaccinated_per_hundred,13.28
+33000,New Hampshire,New Hampshire,people_fully_vaccinated_per_hundred,13.738333333333335
+34000,New Jersey,New Jersey,people_fully_vaccinated_per_hundred,14.555
+35000,New Mexico,New Mexico,people_fully_vaccinated_per_hundred,19.87
+36000,New York,New York,people_fully_vaccinated_per_hundred,12.578333333333333
+37000,North Carolina,North Carolina,people_fully_vaccinated_per_hundred,13.735
+38000,North Dakota,North Dakota,people_fully_vaccinated_per_hundred,16.694999999999997
+39000,Ohio,Ohio,people_fully_vaccinated_per_hundred,13.89
+40000,Oklahoma,Oklahoma,people_fully_vaccinated_per_hundred,14.589999999999998
+41000,Oregon,Oregon,people_fully_vaccinated_per_hundred,13.801666666666668
+42000,Pennsylvania,Pennsylvania,people_fully_vaccinated_per_hundred,13.06
+44000,Rhode Island,Rhode Island,people_fully_vaccinated_per_hundred,15.225
+45000,South Carolina,South Carolina,people_fully_vaccinated_per_hundred,12.576666666666668
+46000,South Dakota,South Dakota,people_fully_vaccinated_per_hundred,18.326666666666668
+47000,Tennessee,Tennessee,people_fully_vaccinated_per_hundred,11.075000000000001
+48000,Texas,Texas,people_fully_vaccinated_per_hundred,10.875
+49000,Utah,Utah,people_fully_vaccinated_per_hundred,9.446666666666665
+50000,Vermont,Vermont,people_fully_vaccinated_per_hundred,14.983333333333334
+51000,Virginia,Virginia,people_fully_vaccinated_per_hundred,14.17
+53000,Washington,Washington,people_fully_vaccinated_per_hundred,14.388333333333335
+54000,West Virginia,West Virginia,people_fully_vaccinated_per_hundred,15.941666666666668
+55000,Wisconsin,Wisconsin,people_fully_vaccinated_per_hundred,15.281666666666666
+56000,Wyoming,Wyoming,people_fully_vaccinated_per_hundred,15.148333333333333
+01000,Alabama,Alabama,share_doses_used,0.6661666666666667
+02000,Alaska,Alaska,share_doses_used,0.7061666666666667
+04000,Arizona,Arizona,share_doses_used,0.8231666666666667
+05000,Arkansas,Arkansas,share_doses_used,0.6735000000000001
+06000,California,California,share_doses_used,0.7696666666666666
+08000,Colorado,Colorado,share_doses_used,0.8196666666666665
+09000,Connecticut,Connecticut,share_doses_used,0.8428333333333334
+10000,Delaware,Delaware,share_doses_used,0.7753333333333333
+12000,Florida,Florida,share_doses_used,0.7443333333333334
+13000,Georgia,Georgia,share_doses_used,0.6856666666666668
+15000,Hawaii,Hawaii,share_doses_used,0.7795
+16000,Idaho,Idaho,share_doses_used,0.8023333333333333
+17000,Illinois,Illinois,share_doses_used,0.8196666666666669
+18000,Indiana,Indiana,share_doses_used,0.7993333333333332
+19000,Iowa,Iowa,share_doses_used,0.8656666666666667
+20000,Kansas,Kansas,share_doses_used,0.7243333333333334
+21000,Kentucky,Kentucky,share_doses_used,0.8353333333333334
+22000,Louisiana,Louisiana,share_doses_used,0.7533333333333333
+23000,Maine,Maine,share_doses_used,0.8393333333333334
+24000,Maryland,Maryland,share_doses_used,0.7845
+25000,Massachusetts,Massachusetts,share_doses_used,0.8829999999999999
+26000,Michigan,Michigan,share_doses_used,0.7873333333333333
+27000,Minnesota,Minnesota,share_doses_used,0.8813333333333334
+28000,Mississippi,Mississippi,share_doses_used,0.6925
+29000,Missouri,Missouri,share_doses_used,0.7443333333333334
+30000,Montana,Montana,share_doses_used,0.794
+31000,Nebraska,Nebraska,share_doses_used,0.8141666666666666
+32000,Nevada,Nevada,share_doses_used,0.8321666666666667
+33000,New Hampshire,New Hampshire,share_doses_used,0.8093333333333331
+34000,New Jersey,New Jersey,share_doses_used,0.8574999999999999
+35000,New Mexico,New Mexico,share_doses_used,0.8956666666666666
+36000,New York,New York,share_doses_used,0.7653333333333334
+37000,North Carolina,North Carolina,share_doses_used,0.8071666666666667
+38000,North Dakota,North Dakota,share_doses_used,0.8946666666666667
+39000,Ohio,Ohio,share_doses_used,0.7786666666666666
+40000,Oklahoma,Oklahoma,share_doses_used,0.7286666666666667
+41000,Oregon,Oregon,share_doses_used,0.7881666666666667
+42000,Pennsylvania,Pennsylvania,share_doses_used,0.7683333333333334
+44000,Rhode Island,Rhode Island,share_doses_used,0.8675000000000002
+45000,South Carolina,South Carolina,share_doses_used,0.7925000000000001
+46000,South Dakota,South Dakota,share_doses_used,0.8040000000000002
+47000,Tennessee,Tennessee,share_doses_used,0.6991666666666667
+48000,Texas,Texas,share_doses_used,0.7441666666666668
+49000,Utah,Utah,share_doses_used,0.8355
+50000,Vermont,Vermont,share_doses_used,0.7946666666666666
+51000,Virginia,Virginia,share_doses_used,0.8463333333333334
+53000,Washington,Washington,share_doses_used,0.8093333333333333
+54000,West Virginia,West Virginia,share_doses_used,0.8028333333333334
+55000,Wisconsin,Wisconsin,share_doses_used,0.8968333333333334
+56000,Wyoming,Wyoming,share_doses_used,0.7076666666666668
+01000,Alabama,Alabama,early_daily_vaccinations_per_million,4408.857142857143
+02000,Alaska,Alaska,early_daily_vaccinations_per_million,8025.0
+04000,Arizona,Arizona,early_daily_vaccinations_per_million,6028.857142857143
+05000,Arkansas,Arkansas,early_daily_vaccinations_per_million,3362.285714285714
+06000,California,California,early_daily_vaccinations_per_million,5208.714285714285
+08000,Colorado,Colorado,early_daily_vaccinations_per_million,6013.428571428572
+09000,Connecticut,Connecticut,early_daily_vaccinations_per_million,6682.714285714285
+10000,Delaware,Delaware,early_daily_vaccinations_per_million,4177.571428571428
+12000,Florida,Florida,early_daily_vaccinations_per_million,5909.428571428572
+13000,Georgia,Georgia,early_daily_vaccinations_per_million,4468.142857142857
+15000,Hawaii,Hawaii,early_daily_vaccinations_per_million,5756.714285714285
+16000,Idaho,Idaho,early_daily_vaccinations_per_million,5600.857142857143
+17000,Illinois,Illinois,early_daily_vaccinations_per_million,5239.285714285715
+18000,Indiana,Indiana,early_daily_vaccinations_per_million,6405.714285714285
+19000,Iowa,Iowa,early_daily_vaccinations_per_million,5975.428571428572
+20000,Kansas,Kansas,early_daily_vaccinations_per_million,4785.428571428572
+21000,Kentucky,Kentucky,early_daily_vaccinations_per_million,4323.285714285715
+22000,Louisiana,Louisiana,early_daily_vaccinations_per_million,4859.857142857143
+23000,Maine,Maine,early_daily_vaccinations_per_million,5329.714285714285
+24000,Maryland,Maryland,early_daily_vaccinations_per_million,4756.285714285715
+25000,Massachusetts,Massachusetts,early_daily_vaccinations_per_million,6591.0
+26000,Michigan,Michigan,early_daily_vaccinations_per_million,4888.0
+27000,Minnesota,Minnesota,early_daily_vaccinations_per_million,4933.428571428572
+28000,Mississippi,Mississippi,early_daily_vaccinations_per_million,4445.571428571428
+29000,Missouri,Missouri,early_daily_vaccinations_per_million,5488.571428571428
+30000,Montana,Montana,early_daily_vaccinations_per_million,6236.0
+31000,Nebraska,Nebraska,early_daily_vaccinations_per_million,4745.0
+32000,Nevada,Nevada,early_daily_vaccinations_per_million,4823.285714285715
+33000,New Hampshire,New Hampshire,early_daily_vaccinations_per_million,4823.285714285715
+34000,New Jersey,New Jersey,early_daily_vaccinations_per_million,5207.285714285715
+35000,New Mexico,New Mexico,early_daily_vaccinations_per_million,7843.857142857143
+36000,New York,New York,early_daily_vaccinations_per_million,4806.714285714285
+37000,North Carolina,North Carolina,early_daily_vaccinations_per_million,5729.428571428572
+38000,North Dakota,North Dakota,early_daily_vaccinations_per_million,5398.285714285715
+39000,Ohio,Ohio,early_daily_vaccinations_per_million,5151.285714285715
+40000,Oklahoma,Oklahoma,early_daily_vaccinations_per_million,4243.571428571428
+41000,Oregon,Oregon,early_daily_vaccinations_per_million,4454.714285714285
+42000,Pennsylvania,Pennsylvania,early_daily_vaccinations_per_million,4854.285714285715
+44000,Rhode Island,Rhode Island,early_daily_vaccinations_per_million,4525.285714285715
+45000,South Carolina,South Carolina,early_daily_vaccinations_per_million,4456.285714285715
+46000,South Dakota,South Dakota,early_daily_vaccinations_per_million,6600.857142857143
+47000,Tennessee,Tennessee,early_daily_vaccinations_per_million,3562.285714285714
+48000,Texas,Texas,early_daily_vaccinations_per_million,3677.5714285714284
+49000,Utah,Utah,early_daily_vaccinations_per_million,2452.0
+50000,Vermont,Vermont,early_daily_vaccinations_per_million,5313.428571428572
+51000,Virginia,Virginia,early_daily_vaccinations_per_million,4888.0
+53000,Washington,Washington,early_daily_vaccinations_per_million,4709.428571428572
+54000,West Virginia,West Virginia,early_daily_vaccinations_per_million,5635.142857142857
+55000,Wisconsin,Wisconsin,early_daily_vaccinations_per_million,5680.428571428572
+56000,Wyoming,Wyoming,early_daily_vaccinations_per_million,6905.571428571428
+01000,Alabama,Alabama,early_people_vaccinated_per_hundred,10.423333333333334
+02000,Alaska,Alaska,early_people_vaccinated_per_hundred,18.51
+04000,Arizona,Arizona,early_people_vaccinated_per_hundred,12.9
+05000,Arkansas,Arkansas,early_people_vaccinated_per_hundred,11.61
+06000,California,California,early_people_vaccinated_per_hundred,12.350000000000001
+08000,Colorado,Colorado,early_people_vaccinated_per_hundred,12.530000000000001
+09000,Connecticut,Connecticut,early_people_vaccinated_per_hundred,14.645000000000001
+10000,Delaware,Delaware,early_people_vaccinated_per_hundred,12.604999999999999
+12000,Florida,Florida,early_people_vaccinated_per_hundred,11.995
+13000,Georgia,Georgia,early_people_vaccinated_per_hundred,10.238333333333333
+15000,Hawaii,Hawaii,early_people_vaccinated_per_hundred,12.975000000000001
+16000,Idaho,Idaho,early_people_vaccinated_per_hundred,10.973333333333331
+17000,Illinois,Illinois,early_people_vaccinated_per_hundred,12.305
+18000,Indiana,Indiana,early_people_vaccinated_per_hundred,12.03
+19000,Iowa,Iowa,early_people_vaccinated_per_hundred,12.065
+20000,Kansas,Kansas,early_people_vaccinated_per_hundred,10.626666666666667
+21000,Kentucky,Kentucky,early_people_vaccinated_per_hundred,11.695
+22000,Louisiana,Louisiana,early_people_vaccinated_per_hundred,11.715000000000002
+23000,Maine,Maine,early_people_vaccinated_per_hundred,12.935
+24000,Maryland,Maryland,early_people_vaccinated_per_hundred,11.073333333333332
+25000,Massachusetts,Massachusetts,early_people_vaccinated_per_hundred,13.288333333333334
+26000,Michigan,Michigan,early_people_vaccinated_per_hundred,11.655000000000001
+27000,Minnesota,Minnesota,early_people_vaccinated_per_hundred,12.463333333333333
+28000,Mississippi,Mississippi,early_people_vaccinated_per_hundred,10.939999999999998
+29000,Missouri,Missouri,early_people_vaccinated_per_hundred,10.758333333333333
+30000,Montana,Montana,early_people_vaccinated_per_hundred,13.213333333333333
+31000,Nebraska,Nebraska,early_people_vaccinated_per_hundred,11.041666666666666
+32000,Nevada,Nevada,early_people_vaccinated_per_hundred,11.505
+33000,New Hampshire,New Hampshire,early_people_vaccinated_per_hundred,11.585
+34000,New Jersey,New Jersey,early_people_vaccinated_per_hundred,12.195
+35000,New Mexico,New Mexico,early_people_vaccinated_per_hundred,15.601666666666665
+36000,New York,New York,early_people_vaccinated_per_hundred,11.186666666666667
+37000,North Carolina,North Carolina,early_people_vaccinated_per_hundred,11.951666666666666
+38000,North Dakota,North Dakota,early_people_vaccinated_per_hundred,14.32
+39000,Ohio,Ohio,early_people_vaccinated_per_hundred,11.565
+40000,Oklahoma,Oklahoma,early_people_vaccinated_per_hundred,12.943333333333335
+41000,Oregon,Oregon,early_people_vaccinated_per_hundred,11.906666666666666
+42000,Pennsylvania,Pennsylvania,early_people_vaccinated_per_hundred,11.57
+44000,Rhode Island,Rhode Island,early_people_vaccinated_per_hundred,10.463333333333333
+45000,South Carolina,South Carolina,early_people_vaccinated_per_hundred,11.068333333333333
+46000,South Dakota,South Dakota,early_people_vaccinated_per_hundred,14.176666666666668
+47000,Tennessee,Tennessee,early_people_vaccinated_per_hundred,10.24
+48000,Texas,Texas,early_people_vaccinated_per_hundred,10.683333333333332
+49000,Utah,Utah,early_people_vaccinated_per_hundred,10.183333333333332
+50000,Vermont,Vermont,early_people_vaccinated_per_hundred,12.955
+51000,Virginia,Virginia,early_people_vaccinated_per_hundred,12.700000000000001
+53000,Washington,Washington,early_people_vaccinated_per_hundred,12.165
+54000,West Virginia,West Virginia,early_people_vaccinated_per_hundred,14.623333333333333
+55000,Wisconsin,Wisconsin,early_people_vaccinated_per_hundred,13.216666666666669
+56000,Wyoming,Wyoming,early_people_vaccinated_per_hundred,13.476666666666667
+01000,Alabama,Alabama,early_people_fully_vaccinated_per_hundred,3.440000000000001
+02000,Alaska,Alaska,early_people_fully_vaccinated_per_hundred,9.03
+04000,Arizona,Arizona,early_people_fully_vaccinated_per_hundred,4.013333333333334
+05000,Arkansas,Arkansas,early_people_fully_vaccinated_per_hundred,4.691666666666666
+06000,California,California,early_people_fully_vaccinated_per_hundred,3.9883333333333333
+08000,Colorado,Colorado,early_people_fully_vaccinated_per_hundred,5.623333333333332
+09000,Connecticut,Connecticut,early_people_fully_vaccinated_per_hundred,6.396666666666667
+10000,Delaware,Delaware,early_people_fully_vaccinated_per_hundred,3.9083333333333337
+12000,Florida,Florida,early_people_fully_vaccinated_per_hundred,5.734999999999999
+13000,Georgia,Georgia,early_people_fully_vaccinated_per_hundred,4.306666666666666
+15000,Hawaii,Hawaii,early_people_fully_vaccinated_per_hundred,5.436666666666667
+16000,Idaho,Idaho,early_people_fully_vaccinated_per_hundred,3.9883333333333333
+17000,Illinois,Illinois,early_people_fully_vaccinated_per_hundred,3.578333333333333
+18000,Indiana,Indiana,early_people_fully_vaccinated_per_hundred,4.823333333333333
+19000,Iowa,Iowa,early_people_fully_vaccinated_per_hundred,4.003333333333333
+20000,Kansas,Kansas,early_people_fully_vaccinated_per_hundred,3.936666666666666
+21000,Kentucky,Kentucky,early_people_fully_vaccinated_per_hundred,4.694999999999999
+22000,Louisiana,Louisiana,early_people_fully_vaccinated_per_hundred,5.738333333333333
+23000,Maine,Maine,early_people_fully_vaccinated_per_hundred,4.928333333333334
+24000,Maryland,Maryland,early_people_fully_vaccinated_per_hundred,4.451666666666667
+25000,Massachusetts,Massachusetts,early_people_fully_vaccinated_per_hundred,4.348333333333333
+26000,Michigan,Michigan,early_people_fully_vaccinated_per_hundred,5.488333333333333
+27000,Minnesota,Minnesota,early_people_fully_vaccinated_per_hundred,4.648333333333333
+28000,Mississippi,Mississippi,early_people_fully_vaccinated_per_hundred,4.1483333333333325
+29000,Missouri,Missouri,early_people_fully_vaccinated_per_hundred,4.2683333333333335
+30000,Montana,Montana,early_people_fully_vaccinated_per_hundred,5.19
+31000,Nebraska,Nebraska,early_people_fully_vaccinated_per_hundred,5.103333333333333
+32000,Nevada,Nevada,early_people_fully_vaccinated_per_hundred,3.9516666666666667
+33000,New Hampshire,New Hampshire,early_people_fully_vaccinated_per_hundred,5.095
+34000,New Jersey,New Jersey,early_people_fully_vaccinated_per_hundred,4.726666666666667
+35000,New Mexico,New Mexico,early_people_fully_vaccinated_per_hundred,7.253333333333334
+36000,New York,New York,early_people_fully_vaccinated_per_hundred,5.045000000000001
+37000,North Carolina,North Carolina,early_people_fully_vaccinated_per_hundred,5.166666666666666
+38000,North Dakota,North Dakota,early_people_fully_vaccinated_per_hundred,6.923333333333335
+39000,Ohio,Ohio,early_people_fully_vaccinated_per_hundred,4.431666666666667
+40000,Oklahoma,Oklahoma,early_people_fully_vaccinated_per_hundred,5.539999999999999
+41000,Oregon,Oregon,early_people_fully_vaccinated_per_hundred,5.093333333333334
+42000,Pennsylvania,Pennsylvania,early_people_fully_vaccinated_per_hundred,4.038333333333333
+44000,Rhode Island,Rhode Island,early_people_fully_vaccinated_per_hundred,4.825
+45000,South Carolina,South Carolina,early_people_fully_vaccinated_per_hundred,3.8983333333333334
+46000,South Dakota,South Dakota,early_people_fully_vaccinated_per_hundred,6.613333333333333
+47000,Tennessee,Tennessee,early_people_fully_vaccinated_per_hundred,4.721666666666667
+48000,Texas,Texas,early_people_fully_vaccinated_per_hundred,4.358333333333333
+49000,Utah,Utah,early_people_fully_vaccinated_per_hundred,3.898333333333333
+50000,Vermont,Vermont,early_people_fully_vaccinated_per_hundred,6.128333333333333
+51000,Virginia,Virginia,early_people_fully_vaccinated_per_hundred,4.64
+53000,Washington,Washington,early_people_fully_vaccinated_per_hundred,4.32
+54000,West Virginia,West Virginia,early_people_fully_vaccinated_per_hundred,8.424999999999999
+55000,Wisconsin,Wisconsin,early_people_fully_vaccinated_per_hundred,4.6883333333333335
+56000,Wyoming,Wyoming,early_people_fully_vaccinated_per_hundred,5.421666666666667
+01000,Alabama,Alabama,early_share_doses_used,0.6579999999999999
+02000,Alaska,Alaska,early_share_doses_used,0.7174999999999999
+04000,Arizona,Arizona,early_share_doses_used,0.8280000000000002
+05000,Arkansas,Arkansas,early_share_doses_used,0.7506666666666667
+06000,California,California,early_share_doses_used,0.7528333333333334
+08000,Colorado,Colorado,early_share_doses_used,0.8253333333333331
+09000,Connecticut,Connecticut,early_share_doses_used,0.8206666666666665
+10000,Delaware,Delaware,early_share_doses_used,0.8321666666666667
+12000,Florida,Florida,early_share_doses_used,0.8026666666666666
+13000,Georgia,Georgia,early_share_doses_used,0.7265
+15000,Hawaii,Hawaii,early_share_doses_used,0.7586666666666666
+16000,Idaho,Idaho,early_share_doses_used,0.8146666666666667
+17000,Illinois,Illinois,early_share_doses_used,0.7461666666666668
+18000,Indiana,Indiana,early_share_doses_used,0.7824999999999999
+19000,Iowa,Iowa,early_share_doses_used,0.7963333333333332
+20000,Kansas,Kansas,early_share_doses_used,0.7118333333333333
+21000,Kentucky,Kentucky,early_share_doses_used,0.7800000000000001
+22000,Louisiana,Louisiana,early_share_doses_used,0.8681666666666668
+23000,Maine,Maine,early_share_doses_used,0.75
+24000,Maryland,Maryland,early_share_doses_used,0.7223333333333334
+25000,Massachusetts,Massachusetts,early_share_doses_used,0.7776666666666666
+26000,Michigan,Michigan,early_share_doses_used,0.8033333333333332
+27000,Minnesota,Minnesota,early_share_doses_used,0.8041666666666667
+28000,Mississippi,Mississippi,early_share_doses_used,0.7180000000000001
+29000,Missouri,Missouri,early_share_doses_used,0.7919999999999999
+30000,Montana,Montana,early_share_doses_used,0.8885
+31000,Nebraska,Nebraska,early_share_doses_used,0.717
+32000,Nevada,Nevada,early_share_doses_used,0.8056666666666666
+33000,New Hampshire,New Hampshire,early_share_doses_used,0.7040000000000001
+34000,New Jersey,New Jersey,early_share_doses_used,0.8401666666666666
+35000,New Mexico,New Mexico,early_share_doses_used,0.9744999999999999
+36000,New York,New York,early_share_doses_used,0.7988333333333334
+37000,North Carolina,North Carolina,early_share_doses_used,0.8291666666666666
+38000,North Dakota,North Dakota,early_share_doses_used,0.9511666666666666
+39000,Ohio,Ohio,early_share_doses_used,0.7771666666666667
+40000,Oklahoma,Oklahoma,early_share_doses_used,0.8244999999999999
+41000,Oregon,Oregon,early_share_doses_used,0.8133333333333335
+42000,Pennsylvania,Pennsylvania,early_share_doses_used,0.7136666666666667
+44000,Rhode Island,Rhode Island,early_share_doses_used,0.6808333333333333
+45000,South Carolina,South Carolina,early_share_doses_used,0.8066666666666666
+46000,South Dakota,South Dakota,early_share_doses_used,0.8603333333333333
+47000,Tennessee,Tennessee,early_share_doses_used,0.7231666666666667
+48000,Texas,Texas,early_share_doses_used,0.8261666666666665
+49000,Utah,Utah,early_share_doses_used,0.8913333333333333
+50000,Vermont,Vermont,early_share_doses_used,0.7888333333333333
+51000,Virginia,Virginia,early_share_doses_used,0.8583333333333333
+53000,Washington,Washington,early_share_doses_used,0.8353333333333334
+54000,West Virginia,West Virginia,early_share_doses_used,0.9286666666666666
+55000,Wisconsin,Wisconsin,early_share_doses_used,0.8560000000000002
+56000,Wyoming,Wyoming,early_share_doses_used,0.8221666666666666

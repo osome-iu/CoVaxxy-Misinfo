@@ -6,7 +6,6 @@
 
 | **File**        | **Variables**    |  **Comment** |
 | ----------- | ----------- | ----------- |
-| Education.csv | "Percent of adults with a bachelor's degree or higher, 2015-19" | |
 | People.csv | TotalPop2010,WhiteNonHispanicPct2010,BlackNonHispanicPct2010, | |
 | | AsianNonHispanicPct2010,NativeAmericanNonHispanicPct2010,HispanicPct2010 | |
 | Income.csv | MedHHInc | Median Household income |
@@ -16,13 +15,12 @@
 
 | **File**        | **Variables**    | **Comment** |
 | ----------- | ----------- | ----------- |
+| Education.csv | "Percent of adults with a bachelor's degree or higher, 2015-19" | |
 | Unemployment.csv | `Unemployment_rate_2000` | |
 | PovertyEstimates.csv | POVALL_2019 | Estimate of people of all ages in poverty 2019 |
 
 
 - https://github.com/tonmcg/US_County_Level_Election_Results_08-20
-
-(Maybe use https://github.com/TheUpshot/presidential-precinct-map-2020 for the final paper as it's a more 'reliable source'.)
 
 | **File**        | **Variables**    | **Comment** |
 | ----------- | ----------- | ----------- |
