@@ -36,6 +36,10 @@ You can find keywords used to filter Twitter stream in `src/keywords.txt`. You c
       * `python3 aggregate_cases_and_deaths.py ../config.ini` - aggregate COVID-19 numbers of cases and deaths for further use
       * `python3 merge_datasets.py ../config.ini` - merge together intermediate data in a single dataframe to be used for correlation.
 4. Run STATA script (`src/stata_script.do`) to get correlation results using `output_files/master_data--{%Y-%m-%d__%H-%M-%S}.csv`.
+5. To do Granger Causality analysis, go to the `src` folder and execute Python (we used version 3.8.5) scripts (see associated `src/README.md` file for further details) in the following order:
+      * `python3 get_temporal_data.py  ../config.ini` - to generate daily aggregates at a user level
+      * `python3 generate_aggregate_files.py ../config.ini` - to then aggregate by county or state
+      * `python3 causality.py ../config.ini` - to run causality analysis
 
 ## Dependencies
 * `covidcast` - install by running `pip install covidcast`. Details can be found [here](https://cmu-delphi.github.io/delphi-epidata/api/covidcast.html)
