@@ -1,4 +1,4 @@
-Reproducibility code for "Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal" Francesco Pierri, Brea Perry, Matthew R. DeVerna, Kai-Cheng Yang, Alessandro Flammini, Filippo Menczer and John Bryden. https://arxiv.org/abs/2104.10635
+Reproducibility code for "Online misinformation is linked to early COVID-19 vaccination hesitancy and refusal" Francesco Pierri, Brea Perry, Matthew R. DeVerna, Kai-Cheng Yang, Alessandro Flammini, Filippo Menczer and John Bryden. Nature Scientific Reports (2022) https://www.nature.com/articles/s41598-022-10070-w
 
 ## Structure
       .
